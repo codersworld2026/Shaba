@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://sahaba.dev</loc><priority>1.0</priority></url>
+  <url><loc>https://sahaba.dev/companions</loc><priority>0.8</priority></url>
+  <url><loc>https://sahaba.dev/caliphs</loc><priority>0.8</priority></url>
+  <url><loc>https://sahaba.dev/ten-promised</loc><priority>0.8</priority></url>
+  <url><loc>https://sahaba.dev/battles</loc><priority>0.8</priority></url>
+  <url><loc>https://sahaba.dev/timeline</loc><priority>0.8</priority></url>
+  <url><loc>https://sahaba.dev/topics</loc><priority>0.8</priority></url>
+  <url><loc>https://sahaba.dev/about</loc><priority>0.8</priority></url>
+  <url><loc>https://sahaba.dev/companions/abu-bakr-as-siddiq</loc><priority>0.9</priority></url>
+  <url><loc>https://sahaba.dev/companions/umar-ibn-al-khattab</loc><priority>0.9</priority></url>
+  <url><loc>https://sahaba.dev/companions/uthman-ibn-affan</loc><priority>0.9</priority></url>
+  <url><loc>https://sahaba.dev/companions/ali-ibn-abi-talib</loc><priority>0.9</priority></url>
+  <url><loc>https://sahaba.dev/companions/talha-ibn-ubaydullah</loc><priority>0.9</priority></url>
+  <url><loc>https://sahaba.dev/companions/zubayr-ibn-al-awwam</loc><priority>0.9</priority></url>
+  <url><loc>https://sahaba.dev/companions/abdur-rahman-ibn-awf</loc><priority>0.9</priority></url>
+  <url><loc>https://sahaba.dev/companions/saad-ibn-abi-waqqas</loc><priority>0.9</priority></url>
+  <url><loc>https://sahaba.dev/companions/said-ibn-zayd</loc><priority>0.9</priority></url>
+  <url><loc>https://sahaba.dev/companions/abu-ubayda-ibn-al-jarrah</loc><priority>0.9</priority></url>
+  <url><loc>https://sahaba.dev/battles/badr</loc><priority>0.7</priority></url>
+  <url><loc>https://sahaba.dev/battles/uhud</loc><priority>0.7</priority></url>
+  <url><loc>https://sahaba.dev/battles/khandaq</loc><priority>0.7</priority></url>
+  <url><loc>https://sahaba.dev/battles/khaybar</loc><priority>0.7</priority></url>
+  <url><loc>https://sahaba.dev/battles/hunayn</loc><priority>0.7</priority></url>
+  <url><loc>https://sahaba.dev/battles/tabuk</loc><priority>0.7</priority></url>
+</urlset>
