@@ -87,7 +87,7 @@ export function Navbar() {
           )}
 
           <a
-            href="https://buymeacoffee.com/sahaba"
+            href="https://ko-fi.com/sahabapush"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex h-9 items-center gap-1.5 rounded-md bg-primary px-3 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"

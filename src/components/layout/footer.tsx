@@ -68,7 +68,7 @@ export function Footer() {
               supporting its growth.
             </p>
             <a
-              href="https://buymeacoffee.com/sahaba"
+              href="https://ko-fi.com/sahabapush"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-3 inline-flex items-center gap-1.5 rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
