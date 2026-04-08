@@ -1,0 +1,59 @@
+{
+  "id": "khandaq",
+  "slug": "khandaq",
+  "nameArabic": "غزوة الخندق",
+  "nameEnglish": "Battle of the Trench",
+  "alternateNames": ["Ghazwa al-Khandaq", "Battle of the Confederates", "Ghazwa al-Ahzab"],
+  "date": {
+    "hijri": { "year": 5, "description": "Shawwal 5 AH" },
+    "gregorian": { "year": 627, "description": "627 CE" }
+  },
+  "stats": {
+    "muslimForceSize": "~3,000",
+    "opposingForceSize": "~10,000",
+    "outcome": "Strategic Muslim Victory (siege lifted)",
+    "duration": "Approximately 27 days (siege)",
+    "location": "Northern outskirts of Madinah",
+    "locationModern": "Madinah, Saudi Arabia"
+  },
+  "summary": {
+    "text": "The Battle of the Trench (al-Khandaq) was a siege of Madinah by a coalition of Quraysh, Ghatafan, and other tribes numbering approximately 10,000. On the suggestion of Salman al-Farisi, the Muslims dug a defensive trench around the vulnerable northern approach to Madinah — a tactic unprecedented in Arabian warfare. The coalition was unable to breach the trench, and after weeks of siege, harsh weather and internal divisions caused them to withdraw. It marked the last major offensive by the Quraysh against Madinah.",
+    "status": "verified"
+  },
+  "background": [
+    { "text": "A coalition of forces was assembled against the Muslims, including the Quraysh of Makkah, the Ghatafan tribe, and others, partly organized through the efforts of leaders from Banu Nadir who had been expelled from Madinah. This grand alliance gave the battle its alternate name — the Battle of the Confederates (al-Ahzab).", "status": "verified" },
+    { "text": "Facing an army far larger than any they had previously encountered, Prophet Muhammad (peace be upon him) consulted his companions. Salman al-Farisi suggested digging a trench along the exposed northern side of Madinah, drawing on Persian military tactics.", "status": "verified" }
+  ],
+  "events": [
+    { "text": "The Muslims worked for approximately six days digging the trench. Prophet Muhammad (peace be upon him) participated personally in the digging. The companions endured hunger and exhaustion during the preparation.", "status": "verified" },
+    { "text": "The coalition army arrived and laid siege to Madinah but was unable to cross the trench. Several cavalry attempted to cross at a narrow point, leading to individual combat. Ali ibn Abi Talib faced and defeated the renowned warrior Amr ibn Abd Wudd in single combat.", "status": "verified" },
+    { "text": "Nu'aym ibn Mas'ud, who had secretly accepted Islam, sowed distrust between the coalition members through strategic diplomacy, weakening their unity. A fierce storm with cold winds and rain battered the besieging army, extinguishing their fires and overturning their tents.", "status": "verified" }
+  ],
+  "aftermath": [
+    { "text": "The coalition forces withdrew without achieving their objective. The Quran describes this event in Surah al-Ahzab (Chapter 33). This was the last time the Quraysh were able to mount a large-scale offensive against the Muslims.", "status": "verified" },
+    { "text": "After the siege, Prophet Muhammad (peace be upon him) said: 'Now we will march against them, and they will not march against us.' This marked a strategic turning point, shifting the initiative to the Muslims.", "status": "verified" }
+  ],
+  "lessons": [
+    { "text": "The Battle of the Trench demonstrated the value of innovative strategy, consultation (shura), and patience in the face of overwhelming odds. The adoption of the trench — a tactic new to Arabia — showed the Muslims' willingness to learn from other civilizations.", "status": "verified" },
+    { "text": "It also highlighted the importance of community solidarity, as every able-bodied Muslim participated in the digging of the trench, including Prophet Muhammad (peace be upon him) himself.", "status": "verified" }
+  ],
+  "notableParticipants": [
+    { "companionSlug": "abu-bakr-as-siddiq", "companionName": "Abu Bakr As-Siddiq", "role": "Advisor and participant in digging the trench" },
+    { "companionSlug": "umar-ibn-al-khattab", "companionName": "Umar ibn Al-Khattab", "role": "Participant in the defense" },
+    { "companionSlug": "ali-ibn-abi-talib", "companionName": "Ali ibn Abi Talib", "role": "Defeated Amr ibn Abd Wudd in single combat" },
+    { "companionSlug": "zubayr-ibn-al-awwam", "companionName": "Al-Zubayr ibn Al-Awwam", "role": "Defender of Madinah" }
+  ],
+  "companionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "uthman-ibn-affan", "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah", "zubayr-ibn-al-awwam", "abdur-rahman-ibn-awf",
+    "saad-ibn-abi-waqqas", "said-ibn-zayd", "abu-ubayda-ibn-al-jarrah"
+  ],
+  "sources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "biography", "verificationStatus": "not-applicable" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "hadith-collection", "verificationStatus": "sahih" },
+    { "title": "The Noble Quran", "author": "", "type": "quran", "reference": "Surah al-Ahzab (33)", "verificationStatus": "not-applicable" }
+  ],
+  "topics": ["battles"],
+  "metaDescription": "Learn about the Battle of the Trench (627 CE), when the Muslims defended Madinah against a coalition of 10,000 using an innovative trench strategy.",
+  "excerpt": "The Battle of the Trench (5 AH / 627 CE) saw the Muslim community defend Madinah against a coalition of 10,000 warriors using an innovative trench strategy. It was the last major offensive by the Quraysh against the Muslims."
+}

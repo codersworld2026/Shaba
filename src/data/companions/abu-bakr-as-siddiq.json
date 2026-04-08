@@ -1,0 +1,179 @@
+{
+  "id": "abu-bakr-as-siddiq",
+  "slug": "abu-bakr-as-siddiq",
+  "nameArabic": "أبو بكر الصديق",
+  "nameEnglish": "Abu Bakr As-Siddiq",
+  "fullName": "Abdullah ibn Abi Quhafa (Abu Bakr As-Siddiq)",
+  "kunyas": ["Abu Bakr"],
+  "nicknames": ["As-Siddiq", "Al-Atiq"],
+  "titles": ["As-Siddiq (The Truthful)", "Al-Atiq (The One Freed from Fire)", "Khalifat Rasulillah (Successor of the Messenger of Allah)"],
+  "isCaliph": true,
+  "caliphOrder": 1,
+  "isAsharaMubasharah": true,
+  "isEarlyConvert": true,
+  "isBadrVeteran": true,
+  "isMuhajir": true,
+  "gender": "male",
+  "topics": ["First Caliph", "Ashara Mubasharah", "Early Convert", "Migration Companion", "Ridda Wars"],
+  "birthDate": {
+    "hijri": { "year": null, "description": "Approximately 51 years before Hijrah" },
+    "gregorian": { "year": 573, "description": "Approximately 573 CE in Makkah" }
+  },
+  "deathDate": {
+    "hijri": { "year": 13, "description": "22 Jumada al-Akhirah 13 AH" },
+    "gregorian": { "year": 634, "description": "23 August 634 CE in Madinah" }
+  },
+  "acceptedIslamDate": {
+    "hijri": { "year": null, "description": "Before the Hijrah, among the earliest converts" },
+    "gregorian": { "year": 610, "description": "Approximately 610 CE, first free adult male to accept Islam" }
+  },
+  "quickFacts": [
+    { "label": "Tribe", "value": "Quraysh (Banu Taym)", "icon": "Users" },
+    { "label": "Birthplace", "value": "Makkah", "icon": "MapPin" },
+    { "label": "Title", "value": "As-Siddiq (The Truthful)", "icon": "Star" },
+    { "label": "Caliphate", "value": "1st Caliph (632-634 CE)", "icon": "Crown" },
+    { "label": "Known For", "value": "Closest companion of the Prophet", "icon": "Heart" },
+    { "label": "Buried", "value": "Al-Masjid an-Nabawi, Madinah", "icon": "Landmark" }
+  ],
+  "patternSeed": 1,
+  "accentColor": "emerald",
+  "tabs": {
+    "childhood": {
+      "id": "childhood",
+      "label": "Childhood",
+      "content": [
+        { "text": "Abu Bakr was born in Makkah around 573 CE into the Banu Taym clan of the Quraysh tribe. His father was Abu Quhafa (Uthman ibn Amir) and his mother was Umm al-Khayr Salma bint Sakhar.", "status": "verified" },
+        { "text": "He grew up in Makkah and was known from a young age for his honest and gentle character. He was well-liked among the Quraysh and became a respected figure in his community even before adulthood.", "status": "verified" },
+        { "text": "Abu Bakr was known for his intelligence and keen memory. He reportedly avoided the vices common among the youth of pre-Islamic Arabia, including the worship of idols.", "status": "reported" }
+      ],
+      "isEmpty": false
+    },
+    "beforeIslam": {
+      "id": "beforeIslam",
+      "label": "Before Islam",
+      "content": [
+        { "text": "Before Islam, Abu Bakr was a successful merchant and one of the wealthiest men in Makkah. He was well known for his knowledge of Arab genealogy and was frequently consulted by the Quraysh on tribal matters.", "status": "verified" },
+        { "text": "He was a close friend of Prophet Muhammad (peace be upon him) even before the revelation of Islam. Abu Bakr was known in pre-Islamic Makkah for his good character, honesty in trade, and avoidance of alcohol.", "status": "verified" },
+        { "text": "He held a respected social position among the Quraysh and was regarded as one of the chiefs of his clan, Banu Taym.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "acceptingIslam": {
+      "id": "acceptingIslam",
+      "label": "Accepting Islam",
+      "content": [
+        { "text": "Abu Bakr was the first free adult male to accept Islam. When Prophet Muhammad (peace be upon him) shared the message of Islam with him, Abu Bakr accepted without hesitation, earning him the lasting distinction of being the earliest male convert.", "status": "verified" },
+        { "text": "After his conversion, Abu Bakr actively invited others to Islam. Through his efforts, several prominent companions accepted Islam, including Uthman ibn Affan, Zubayr ibn al-Awwam, Abdur-Rahman ibn Awf, Saad ibn Abi Waqqas, and Talha ibn Ubaydullah.", "status": "verified" },
+        { "text": "Abu Bakr spent much of his personal wealth to free enslaved Muslims who were being persecuted in Makkah, including Bilal ibn Rabah. His sacrifices for the early Muslim community were immense.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "lifeWithProphet": {
+      "id": "lifeWithProphet",
+      "label": "Life with the Prophet",
+      "content": [
+        { "text": "Abu Bakr was the closest companion of Prophet Muhammad (peace be upon him) and accompanied him during the Hijrah (migration) from Makkah to Madinah. They hid together in the Cave of Thawr, an event referenced in the Quran (9:40).", "status": "verified" },
+        { "text": "He donated his entire wealth for the preparation of the Tabuk expedition when called upon by Prophet Muhammad (peace be upon him). When asked what he had left for his family, he replied: 'Allah and His Messenger.'", "status": "verified" },
+        { "text": "Abu Bakr was chosen by Prophet Muhammad (peace be upon him) to lead the prayers during the Prophet's final illness, which many scholars consider an indication of his suitability for leadership after the Prophet.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "battles": {
+      "id": "battles",
+      "label": "Battles",
+      "content": [
+        { "text": "Abu Bakr participated in the Battle of Badr (2 AH), the first major military engagement of the Muslim community. He stood alongside Prophet Muhammad (peace be upon him) in the command shelter during the battle.", "status": "verified" },
+        { "text": "He was present at the Battle of Uhud (3 AH) and the Battle of the Trench (Khandaq, 5 AH), remaining steadfast beside Prophet Muhammad (peace be upon him) throughout these difficult engagements.", "status": "verified" },
+        { "text": "Abu Bakr also participated in the expeditions to Khaybar, the conquest of Makkah, and the Battle of Hunayn. He was part of virtually every major campaign during the Prophet's lifetime.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "adulthoodLeadership": {
+      "id": "adulthoodLeadership",
+      "label": "Leadership",
+      "content": [
+        { "text": "Abu Bakr served as a trusted advisor to Prophet Muhammad (peace be upon him) throughout the Madinan period. He was one of the most consulted companions on matters of governance, diplomacy, and community affairs.", "status": "verified" },
+        { "text": "After the passing of the Prophet, Abu Bakr was elected as the first Caliph at Saqifah Bani Saidah. He addressed the community saying: 'If I do well, help me; and if I do wrong, set me right.'", "status": "verified" },
+        { "text": "His leadership during the Ridda Wars (Wars of Apostasy) was critical in preserving the unity of the Muslim state after the death of Prophet Muhammad (peace be upon him).", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "khilafahRole": {
+      "id": "khilafahRole",
+      "label": "Khilafah",
+      "content": [
+        { "text": "Abu Bakr served as the first Caliph of Islam from 632 to 634 CE (11-13 AH). His caliphate, though brief at approximately two years, was pivotal in consolidating the Muslim state after the passing of Prophet Muhammad (peace be upon him).", "status": "verified" },
+        { "text": "He successfully managed the Ridda Wars, campaigns against tribes that had renounced Islam or refused to pay Zakat after the Prophet's death. His decisive leadership ensured the survival and unity of the nascent Muslim community.", "status": "verified" },
+        { "text": "Abu Bakr initiated the compilation of the Quran into a single manuscript after many memorizers of the Quran were martyred in the Battle of Yamamah. He also launched the early Muslim expeditions into the Levant and Iraq before his death in 634 CE.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "characterVirtues": {
+      "id": "characterVirtues",
+      "label": "Character & Virtues",
+      "content": [
+        { "text": "Abu Bakr was renowned for his gentleness, humility, and deep faith. He wept frequently during prayer and was known for his tender and compassionate nature. Prophet Muhammad (peace be upon him) described him as the most merciful of his Ummah toward his Ummah.", "status": "verified" },
+        { "text": "He was extraordinarily generous, spending the majority of his personal wealth in the service of Islam. He freed numerous enslaved Muslims and provided financial support to the early Muslim community during times of hardship.", "status": "verified" },
+        { "text": "Abu Bakr was known for his unwavering truthfulness, which earned him the title 'As-Siddiq' (The Truthful). When Prophet Muhammad (peace be upon him) described the Night Journey (Isra and Mi'raj), Abu Bakr immediately affirmed his belief without hesitation.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "nicknamesTitles": {
+      "id": "nicknamesTitles",
+      "label": "Nicknames & Titles",
+      "content": [
+        { "text": "He was called 'As-Siddiq' (The Truthful) because of his immediate and unwavering belief in Prophet Muhammad (peace be upon him), particularly after the event of the Isra and Mi'raj (Night Journey and Ascension).", "status": "verified" },
+        { "text": "He was also known as 'Al-Atiq' (The One Freed from Fire), a title the Prophet reportedly gave him. His birth name was Abdullah, and Abu Bakr was his kunya.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "content": [
+        { "text": "Abu Bakr is universally regarded as the greatest companion of Prophet Muhammad (peace be upon him) in Sunni Islam. His caliphate set the precedent for the institution of the Khilafah and the principle of consultation (Shura) in Islamic governance.", "status": "verified" },
+        { "text": "His initiative to compile the Quran into a single manuscript was one of the most consequential acts in Islamic history, ensuring the preservation of the sacred text for future generations.", "status": "verified" },
+        { "text": "Abu Bakr is buried next to Prophet Muhammad (peace be upon him) in the chamber of Aisha in Al-Masjid an-Nabawi in Madinah, a testament to his closeness to the Prophet in life and in death.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "sources": {
+      "id": "sources",
+      "label": "Sources",
+      "content": [
+        { "text": "The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri provides detailed accounts of Abu Bakr's role during the Prophetic era, including his participation in the Hijrah and major battles.", "status": "verified" },
+        { "text": "Companions of the Prophet by Abdul Wahid Hamid offers accessible biographical narratives of Abu Bakr's life, character, and contributions to early Islam.", "status": "verified" },
+        { "text": "Sahih al-Bukhari and Sahih Muslim contain numerous authentic hadith narrations about Abu Bakr's virtues, his closeness to Prophet Muhammad (peace be upon him), and his role in key events of early Islamic history.", "status": "verified" }
+      ],
+      "isEmpty": false
+    }
+  },
+  "battleParticipation": [
+    { "battleSlug": "badr", "battleName": "Battle of Badr", "role": "Senior advisor to Prophet Muhammad (peace be upon him)" },
+    { "battleSlug": "uhud", "battleName": "Battle of Uhud", "role": "Participant and defender of the Prophet" },
+    { "battleSlug": "khandaq", "battleName": "Battle of the Trench", "role": "Participant in the defense of Madinah" },
+    { "battleSlug": "khaybar", "battleName": "Battle of Khaybar", "role": "Participant" },
+    { "battleSlug": "hunayn", "battleName": "Battle of Hunayn", "role": "Participant alongside the Prophet" },
+    { "battleSlug": "tabuk", "battleName": "Expedition of Tabuk", "role": "Donated entire wealth for the expedition" }
+  ],
+  "primarySources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "Seerah", "verificationStatus": "verified" },
+    { "title": "Companions of the Prophet", "author": "Abdul Wahid Hamid", "type": "Biography", "verificationStatus": "verified" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "Hadith Collection", "verificationStatus": "verified" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "Hadith Collection", "verificationStatus": "verified" }
+  ],
+  "relatedCompanionSlugs": [
+    "umar-ibn-al-khattab",
+    "uthman-ibn-affan",
+    "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah",
+    "zubayr-ibn-al-awwam",
+    "abdur-rahman-ibn-awf",
+    "saad-ibn-abi-waqqas",
+    "said-ibn-zayd",
+    "abu-ubayda-ibn-al-jarrah"
+  ],
+  "metaDescription": "Learn about Abu Bakr As-Siddiq, the first Caliph of Islam and closest companion of Prophet Muhammad (peace be upon him). Explore his life, virtues, and legacy.",
+  "excerpt": "Abu Bakr As-Siddiq was the closest companion of Prophet Muhammad (peace be upon him), the first free adult male to accept Islam, and the first Caliph of the Muslim community.",
+  "sortOrder": 1
+}

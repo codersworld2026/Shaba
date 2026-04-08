@@ -1,0 +1,59 @@
+{
+  "id": "tabuk",
+  "slug": "tabuk",
+  "nameArabic": "غزوة تبوك",
+  "nameEnglish": "Expedition of Tabuk",
+  "alternateNames": ["Ghazwa Tabuk", "The Expedition of Hardship"],
+  "date": {
+    "hijri": { "year": 9, "description": "Rajab 9 AH" },
+    "gregorian": { "year": 630, "description": "October 630 CE" }
+  },
+  "stats": {
+    "muslimForceSize": "~30,000",
+    "opposingForceSize": "No direct engagement occurred",
+    "outcome": "Strategic success; no battle took place",
+    "duration": "Approximately 20 days at Tabuk",
+    "location": "Tabuk, northern Arabia",
+    "locationModern": "Tabuk, Saudi Arabia"
+  },
+  "summary": {
+    "text": "The Expedition of Tabuk was the last major military campaign led by Prophet Muhammad (peace be upon him). A Muslim army of approximately 30,000 marched north toward the Byzantine frontier in response to reports of a gathering Roman force. No actual battle took place as the anticipated enemy force did not materialize, but the expedition demonstrated the growing reach and determination of the Muslim community. It is known as the 'Expedition of Hardship' (Ghazwat al-Usrah) due to the extreme heat, long distance, and scarcity of provisions.",
+    "status": "verified"
+  },
+  "background": [
+    { "text": "Reports reached Madinah that the Byzantine Empire was assembling a large force along the northern frontier of Arabia. Prophet Muhammad (peace be upon him) called upon the Muslims to prepare for a long and difficult march.", "status": "verified" },
+    { "text": "The expedition was organized during an extremely hot season, at a time when the date harvest was approaching — making it particularly difficult for many to leave their homes. The Quran discusses the reluctance of some and the devotion of others in Surah at-Tawbah (Chapter 9).", "status": "verified" }
+  ],
+  "events": [
+    { "text": "The Muslim army, the largest assembled during the Prophet's lifetime, marched to Tabuk — a journey of approximately 700 km from Madinah. The companions endured extreme heat, thirst, and shortage of provisions.", "status": "verified" },
+    { "text": "Several companions demonstrated extraordinary generosity in funding the expedition. Uthman ibn Affan is reported to have equipped a third of the army at his own expense. Abdur-Rahman ibn Awf and Abu Bakr also made significant contributions.", "status": "verified" },
+    { "text": "Upon reaching Tabuk, the Muslim force found no opposing army. Prophet Muhammad (peace be upon him) camped there for about twenty days, during which several local leaders came to negotiate treaties and alliances.", "status": "verified" }
+  ],
+  "aftermath": [
+    { "text": "Although no battle occurred, the expedition secured the northern frontier, established Muslim authority in the region, and demonstrated that the Muslim community could project military power over long distances.", "status": "verified" },
+    { "text": "The expedition also served as a test of faith and commitment. The Quran addresses the behavior of various groups — the sincere believers, the hypocrites who made excuses, and the three sincere companions who stayed behind and were later forgiven after a period of social boycott.", "status": "verified" }
+  ],
+  "lessons": [
+    { "text": "The Expedition of Tabuk highlighted the importance of sacrifice, generosity, and commitment to the community even when the path is difficult. The companions' willingness to march hundreds of kilometers through harsh desert conditions demonstrated their deep faith.", "status": "verified" },
+    { "text": "The Quran's extensive discussion of this expedition in Surah at-Tawbah provides lasting lessons about sincerity, the dangers of hypocrisy, and the importance of community solidarity.", "status": "verified" }
+  ],
+  "notableParticipants": [
+    { "companionSlug": "abu-bakr-as-siddiq", "companionName": "Abu Bakr As-Siddiq", "role": "Donated his entire wealth to fund the expedition" },
+    { "companionSlug": "umar-ibn-al-khattab", "companionName": "Umar ibn Al-Khattab", "role": "Donated half his wealth" },
+    { "companionSlug": "uthman-ibn-affan", "companionName": "Uthman ibn Affan", "role": "Equipped approximately one-third of the army" },
+    { "companionSlug": "abdur-rahman-ibn-awf", "companionName": "Abdur-Rahman ibn Awf", "role": "Major financial contributor" }
+  ],
+  "companionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "uthman-ibn-affan",
+    "ali-ibn-abi-talib", "abdur-rahman-ibn-awf", "saad-ibn-abi-waqqas",
+    "abu-ubayda-ibn-al-jarrah"
+  ],
+  "sources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "biography", "verificationStatus": "not-applicable" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "hadith-collection", "verificationStatus": "sahih" },
+    { "title": "The Noble Quran", "author": "", "type": "quran", "reference": "Surah at-Tawbah (9)", "verificationStatus": "not-applicable" }
+  ],
+  "topics": ["battles"],
+  "metaDescription": "Learn about the Expedition of Tabuk (630 CE), the last major campaign of Prophet Muhammad (peace be upon him) and a test of faith for the Muslim community.",
+  "excerpt": "The Expedition of Tabuk (9 AH / 630 CE) was the last major campaign led by Prophet Muhammad (peace be upon him). Known as the 'Expedition of Hardship,' it tested the faith and commitment of the Muslim community."
+}

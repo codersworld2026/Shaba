@@ -1,0 +1,165 @@
+{
+  "id": "talha-ibn-ubaydullah",
+  "slug": "talha-ibn-ubaydullah",
+  "nameArabic": "طلحة بن عبيد الله",
+  "nameEnglish": "Talha ibn Ubaydullah",
+  "fullName": "Talha ibn Ubaydullah ibn Uthman",
+  "kunyas": ["Abu Muhammad"],
+  "nicknames": ["Talha al-Khayr", "Talha al-Fayyad"],
+  "titles": ["Talha al-Khayr (Talha the Good)", "Talha al-Fayyad (Talha the Generous)", "The Living Martyr"],
+  "isCaliph": false,
+  "isAsharaMubasharah": true,
+  "isEarlyConvert": true,
+  "isBadrVeteran": false,
+  "isMuhajir": true,
+  "gender": "male",
+  "topics": ["Ashara Mubasharah", "Early Convert", "Battle of Uhud Hero", "Generosity"],
+  "birthDate": {
+    "hijri": { "year": null, "description": "Approximately 28 years before Hijrah" },
+    "gregorian": { "year": 594, "description": "Approximately 594 CE in Makkah" }
+  },
+  "deathDate": {
+    "hijri": { "year": 36, "description": "10 Jumada al-Akhirah 36 AH" },
+    "gregorian": { "year": 656, "description": "December 656 CE near Basra" }
+  },
+  "acceptedIslamDate": {
+    "hijri": { "year": null, "description": "Among the earliest converts, through Abu Bakr" },
+    "gregorian": { "year": 611, "description": "Approximately 611 CE, among the first eight people to accept Islam" }
+  },
+  "quickFacts": [
+    { "label": "Tribe", "value": "Quraysh (Banu Taym)", "icon": "Users" },
+    { "label": "Birthplace", "value": "Makkah", "icon": "MapPin" },
+    { "label": "Title", "value": "The Living Martyr", "icon": "Star" },
+    { "label": "Promised Paradise", "value": "One of the Ten (Ashara Mubasharah)", "icon": "Crown" },
+    { "label": "Known For", "value": "Heroism at Uhud and generosity", "icon": "Heart" },
+    { "label": "Buried", "value": "Near Basra, Iraq", "icon": "Landmark" }
+  ],
+  "patternSeed": 5,
+  "accentColor": "teal",
+  "tabs": {
+    "childhood": {
+      "id": "childhood",
+      "label": "Childhood",
+      "content": [
+        { "text": "Talha ibn Ubaydullah was born around 594 CE in Makkah into the Banu Taym clan of the Quraysh, the same clan as Abu Bakr As-Siddiq. His father was Ubaydullah ibn Uthman.", "status": "verified" },
+        { "text": "He grew up in a merchant family and was known for his intelligence and noble bearing from an early age. Talha became involved in trade as a young man, traveling on commercial journeys to different regions.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "beforeIslam": {
+      "id": "beforeIslam",
+      "label": "Before Islam",
+      "content": [
+        { "text": "Before Islam, Talha was a successful young merchant. According to some accounts, he encountered a Christian monk in Busra (Syria) during a trade journey who told him that a prophet was expected to arise in Makkah, which made him attentive to the message of Islam.", "status": "reported" },
+        { "text": "He belonged to the same clan as Abu Bakr and was well acquainted with him. Talha was known for his good character and honesty in trade even before embracing Islam.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "acceptingIslam": {
+      "id": "acceptingIslam",
+      "label": "Accepting Islam",
+      "content": [
+        { "text": "Talha was among the earliest converts to Islam, accepting the faith through the invitation of Abu Bakr As-Siddiq. He is counted among the first eight people to embrace Islam.", "status": "verified" },
+        { "text": "After his conversion, Talha was subjected to persecution by the Quraysh. He was reportedly tortured by Nawfal ibn Khuwaylid, who tied him and Abu Bakr together and left them in the sun, earning them the nickname 'the pair' (al-Qarinain).", "status": "verified" },
+        { "text": "Despite the persecution, Talha remained steadfast in his faith and migrated to Madinah with the other early Muslims during the Hijrah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "lifeWithProphet": {
+      "id": "lifeWithProphet",
+      "label": "Life with the Prophet",
+      "content": [
+        { "text": "Talha was one of the most trusted companions of Prophet Muhammad (peace be upon him) and was among the six members of the Shura council nominated by Umar to select his successor, reflecting his high standing in the community.", "status": "verified" },
+        { "text": "Prophet Muhammad (peace be upon him) gave Talha multiple titles of honor, including Talha al-Khayr (Talha the Good) and Talha al-Fayyad (Talha the Generous), testifying to his charitable nature and noble character.", "status": "verified" },
+        { "text": "He was extremely generous with his wealth, spending liberally in support of the Muslim community. He was known for helping the poor and supporting families of those who had fallen in battle.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "battles": {
+      "id": "battles",
+      "label": "Battles",
+      "content": [
+        { "text": "Talha was not present at the Battle of Badr (2 AH) because Prophet Muhammad (peace be upon him) had sent him on a scouting mission. Despite his absence, the Prophet assigned him a share of the spoils and counted him among the people of Badr.", "status": "verified" },
+        { "text": "At the Battle of Uhud (3 AH), Talha distinguished himself through extraordinary heroism. When the Muslim lines broke and Prophet Muhammad (peace be upon him) was in danger, Talha shielded the Prophet with his own body, using his hand to deflect a sword blow meant for the Prophet, permanently disabling his fingers.", "status": "verified" },
+        { "text": "He sustained over seventy wounds at Uhud while defending Prophet Muhammad (peace be upon him). Abu Bakr later said: 'That day belonged entirely to Talha.' The Prophet called him 'the living martyr' because of the severity of his injuries.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "adulthoodLeadership": {
+      "id": "adulthoodLeadership",
+      "label": "Leadership",
+      "content": [
+        { "text": "Talha was a prominent figure in the Muslim community throughout the era of the Rightly Guided Caliphs. He was included in the six-member Shura council appointed by Umar ibn Al-Khattab to select his successor.", "status": "verified" },
+        { "text": "He was one of the wealthiest companions and used his wealth extensively for charitable purposes. He was known for his skill in commerce and his generosity toward the poor and those in need.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "khilafahRole": {
+      "id": "khilafahRole",
+      "label": "Khilafah",
+      "content": [],
+      "isEmpty": true
+    },
+    "characterVirtues": {
+      "id": "characterVirtues",
+      "label": "Character & Virtues",
+      "content": [
+        { "text": "Talha was renowned for his extraordinary generosity. He would distribute large amounts of wealth to those in need, and Prophet Muhammad (peace be upon him) named him 'Al-Fayyad' (The Generous/Overflowing) because of his constant charitable giving.", "status": "verified" },
+        { "text": "His courage at the Battle of Uhud is one of the most celebrated acts of bravery in Islamic history. He placed himself between Prophet Muhammad (peace be upon him) and the enemy, absorbing strikes and arrows with his own body.", "status": "verified" },
+        { "text": "Prophet Muhammad (peace be upon him) said about Talha: 'Whoever wishes to see a walking martyr, let him look at Talha ibn Ubaydullah.' This hadith highlights the extraordinary sacrifice Talha made at Uhud.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "nicknamesTitles": {
+      "id": "nicknamesTitles",
+      "label": "Nicknames & Titles",
+      "content": [
+        { "text": "He was called 'Talha al-Khayr' (Talha the Good) after the Battle of Uhud and 'Talha al-Fayyad' (Talha the Generous/Overflowing) after the Battle of Hunayn, both titles given by Prophet Muhammad (peace be upon him) himself.", "status": "verified" },
+        { "text": "He was also known as 'The Living Martyr' (Al-Shahid al-Hayy) due to the severe wounds he sustained while defending the Prophet at Uhud. His kunya was Abu Muhammad.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "content": [],
+      "isEmpty": true
+    },
+    "sources": {
+      "id": "sources",
+      "label": "Sources",
+      "content": [
+        { "text": "The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri provides accounts of Talha's heroism at Uhud and his role during the Prophetic era.", "status": "verified" },
+        { "text": "Companions of the Prophet by Abdul Wahid Hamid offers biographical details about Talha's life, his early conversion, and his extraordinary generosity.", "status": "verified" },
+        { "text": "Sahih al-Bukhari and Sahih Muslim contain authentic hadith narrations about Talha's virtues, his bravery at Uhud, and his being among the Ten Promised Paradise.", "status": "verified" }
+      ],
+      "isEmpty": false
+    }
+  },
+  "battleParticipation": [
+    { "battleSlug": "uhud", "battleName": "Battle of Uhud", "role": "Heroic defender of Prophet Muhammad (peace be upon him), sustained over 70 wounds" },
+    { "battleSlug": "khandaq", "battleName": "Battle of the Trench", "role": "Participant in the defense of Madinah" },
+    { "battleSlug": "khaybar", "battleName": "Battle of Khaybar", "role": "Participant" },
+    { "battleSlug": "hunayn", "battleName": "Battle of Hunayn", "role": "Participant" }
+  ],
+  "primarySources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "Seerah", "verificationStatus": "verified" },
+    { "title": "Companions of the Prophet", "author": "Abdul Wahid Hamid", "type": "Biography", "verificationStatus": "verified" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "Hadith Collection", "verificationStatus": "verified" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "Hadith Collection", "verificationStatus": "verified" }
+  ],
+  "relatedCompanionSlugs": [
+    "abu-bakr-as-siddiq",
+    "umar-ibn-al-khattab",
+    "uthman-ibn-affan",
+    "ali-ibn-abi-talib",
+    "zubayr-ibn-al-awwam",
+    "abdur-rahman-ibn-awf",
+    "saad-ibn-abi-waqqas",
+    "said-ibn-zayd",
+    "abu-ubayda-ibn-al-jarrah"
+  ],
+  "metaDescription": "Learn about Talha ibn Ubaydullah, one of the Ten Promised Paradise, known as the Living Martyr for his heroic defense of Prophet Muhammad (peace be upon him) at the Battle of Uhud.",
+  "excerpt": "Talha ibn Ubaydullah was one of the Ten Companions Promised Paradise, renowned for his extraordinary heroism at the Battle of Uhud where he shielded Prophet Muhammad (peace be upon him) with his own body.",
+  "sortOrder": 5
+}

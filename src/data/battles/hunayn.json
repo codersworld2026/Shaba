@@ -1,0 +1,57 @@
+{
+  "id": "hunayn",
+  "slug": "hunayn",
+  "nameArabic": "غزوة حنين",
+  "nameEnglish": "Battle of Hunayn",
+  "alternateNames": ["Ghazwa Hunayn"],
+  "date": {
+    "hijri": { "year": 8, "description": "Shawwal 8 AH" },
+    "gregorian": { "year": 630, "description": "January/February 630 CE" }
+  },
+  "stats": {
+    "muslimForceSize": "~12,000",
+    "opposingForceSize": "~4,000 (Hawazin and Thaqif)",
+    "outcome": "Muslim Victory",
+    "duration": "One day",
+    "location": "Valley of Hunayn, between Makkah and Ta'if",
+    "locationModern": "Near Makkah, Saudi Arabia"
+  },
+  "summary": {
+    "text": "The Battle of Hunayn took place shortly after the conquest of Makkah, when the tribes of Hawazin and Thaqif gathered a large force to confront the Muslims. Despite initially having a much larger army, the Muslim forces were ambushed in the valley and fell into disarray. Prophet Muhammad (peace be upon him) and a small group of steadfast companions held their ground, rallied the troops, and ultimately achieved a decisive victory. The Quran references this battle in Surah at-Tawbah (9:25-26).",
+    "status": "verified"
+  },
+  "background": [
+    { "text": "Following the peaceful conquest of Makkah (8 AH), the tribes of Hawazin and Thaqif, who had not accepted Islam, mobilized a large force under the leadership of Malik ibn Awf to challenge the growing Muslim authority in the region.", "status": "verified" },
+    { "text": "The Muslim army, swelled by new converts from Makkah, numbered approximately 12,000 — the largest Muslim force assembled to that point. Some in the army expressed confidence that they could not be defeated due to their numbers.", "status": "verified" }
+  ],
+  "events": [
+    { "text": "As the Muslim army entered the narrow valley of Hunayn at dawn, they were ambushed by archers hidden in the hills. The sudden attack caused widespread panic and the majority of the army fled in confusion.", "status": "verified" },
+    { "text": "Prophet Muhammad (peace be upon him) remained firm, accompanied by a small group including Abu Bakr, Umar, Ali, and Abbas ibn Abd al-Muttalib. The Prophet called out to the fleeing soldiers, and his uncle Abbas's powerful voice helped rally the Ansar and Muhajirun.", "status": "verified" },
+    { "text": "The companions regrouped and launched a counterattack that routed the Hawazin and Thaqif forces. The enemy was defeated, and a large amount of spoils and captives were taken.", "status": "verified" }
+  ],
+  "aftermath": [
+    { "text": "The victory at Hunayn, following the initial near-defeat, served as a powerful lesson about the dangers of overconfidence and self-reliance. The Quran notes: 'On the day of Hunayn, when you were pleased with your great numbers, but they availed you not at all' (9:25).", "status": "verified" },
+    { "text": "Prophet Muhammad (peace be upon him) demonstrated magnanimity in distributing the spoils, giving generously to the new converts from Makkah to strengthen their faith, while the Ansar received reassurance of their special status.", "status": "verified" }
+  ],
+  "lessons": [
+    { "text": "Hunayn taught the Muslim community that numerical superiority alone does not guarantee victory. True success comes from faith, discipline, and reliance upon Allah, not upon material strength.", "status": "verified" }
+  ],
+  "notableParticipants": [
+    { "companionSlug": "abu-bakr-as-siddiq", "companionName": "Abu Bakr As-Siddiq", "role": "Stood firm with the Prophet" },
+    { "companionSlug": "umar-ibn-al-khattab", "companionName": "Umar ibn Al-Khattab", "role": "Stood firm with the Prophet" },
+    { "companionSlug": "ali-ibn-abi-talib", "companionName": "Ali ibn Abi Talib", "role": "Stood firm with the Prophet, engaged in combat" }
+  ],
+  "companionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah", "zubayr-ibn-al-awwam", "abdur-rahman-ibn-awf",
+    "saad-ibn-abi-waqqas", "said-ibn-zayd", "abu-ubayda-ibn-al-jarrah"
+  ],
+  "sources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "biography", "verificationStatus": "not-applicable" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "hadith-collection", "verificationStatus": "sahih" },
+    { "title": "The Noble Quran", "author": "", "type": "quran", "reference": "Surah at-Tawbah (9:25-26)", "verificationStatus": "not-applicable" }
+  ],
+  "topics": ["battles"],
+  "metaDescription": "Learn about the Battle of Hunayn (630 CE), where an initial ambush turned into a Muslim victory through the steadfastness of Prophet Muhammad (peace be upon him) and his companions.",
+  "excerpt": "The Battle of Hunayn (8 AH / 630 CE) saw the largest Muslim army of the Prophetic era initially routed by an ambush, then rallied by Prophet Muhammad (peace be upon him) and a small group of steadfast companions to achieve victory."
+}

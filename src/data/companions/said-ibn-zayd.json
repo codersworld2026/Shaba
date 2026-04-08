@@ -1,0 +1,153 @@
+{
+  "id": "said-ibn-zayd",
+  "slug": "said-ibn-zayd",
+  "nameArabic": "سعيد بن زيد",
+  "nameEnglish": "Sa'id ibn Zayd",
+  "fullName": "Sa'id ibn Zayd ibn Amr ibn Nufayl",
+  "kunyas": ["Abu al-Awar"],
+  "nicknames": [],
+  "titles": ["One of the Ten Promised Paradise"],
+  "isCaliph": false,
+  "isAsharaMubasharah": true,
+  "isEarlyConvert": true,
+  "isBadrVeteran": false,
+  "isMuhajir": true,
+  "gender": "male",
+  "topics": ["Ashara Mubasharah", "Early Convert", "Migration"],
+  "birthDate": {
+    "hijri": { "year": null, "description": "Approximately 22 years before Hijrah" },
+    "gregorian": { "year": 600, "description": "Approximately 600 CE in Makkah" }
+  },
+  "deathDate": {
+    "hijri": { "year": 51, "description": "51 AH" },
+    "gregorian": { "year": 671, "description": "671 CE in Madinah" }
+  },
+  "acceptedIslamDate": {
+    "hijri": { "year": null, "description": "Very early, before the conversion of Umar ibn Al-Khattab" },
+    "gregorian": { "year": 611, "description": "Approximately 611 CE" }
+  },
+  "quickFacts": [
+    { "label": "Tribe", "value": "Quraysh (Banu Adi)", "icon": "Users" },
+    { "label": "Birthplace", "value": "Makkah", "icon": "MapPin" },
+    { "label": "Known For", "value": "Early convert; his father Zayd sought monotheism before Islam", "icon": "Star" },
+    { "label": "Promised Paradise", "value": "One of the Ten (Ashara Mubasharah)", "icon": "Crown" },
+    { "label": "Family", "value": "Married to Fatimah bint Al-Khattab, sister of Umar", "icon": "Heart" },
+    { "label": "Buried", "value": "Al-Baqi Cemetery, Madinah", "icon": "Landmark" }
+  ],
+  "patternSeed": 9,
+  "accentColor": "indigo",
+  "tabs": {
+    "childhood": {
+      "id": "childhood",
+      "label": "Childhood",
+      "content": [
+        { "text": "Sa'id ibn Zayd was born around 600 CE into the Banu Adi clan of the Quraysh in Makkah. His father, Zayd ibn Amr ibn Nufayl, was a well-known monotheist (Hanif) who rejected idol worship even before the advent of Islam.", "status": "verified" },
+        { "text": "Growing up with a father who actively sought the religion of Ibrahim (Abraham, peace be upon him), Sa'id was raised in an environment that valued monotheism and questioned the prevailing idolatry of Makkah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "beforeIslam": {
+      "id": "beforeIslam",
+      "label": "Before Islam",
+      "content": [
+        { "text": "Sa'id's father, Zayd ibn Amr, was one of the few people in pre-Islamic Makkah who rejected polytheism and sought the monotheistic faith of Prophet Ibrahim (Abraham, peace be upon him). He traveled widely seeking the true religion and died before the public mission of Prophet Muhammad (peace be upon him).", "status": "verified" },
+        { "text": "Prophet Muhammad (peace be upon him) later spoke highly of Zayd ibn Amr, saying he would be raised as a nation unto himself on the Day of Judgment. This family legacy of seeking truth deeply influenced Sa'id.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "acceptingIslam": {
+      "id": "acceptingIslam",
+      "label": "Accepting Islam",
+      "content": [
+        { "text": "Sa'id was among the earliest converts to Islam, along with his wife Fatimah bint Al-Khattab (the sister of Umar ibn Al-Khattab). They accepted Islam before Umar himself.", "status": "verified" },
+        { "text": "The conversion of Sa'id and Fatimah played a pivotal role in the conversion of Umar. When Umar came to confront his sister about her new faith, he found them reciting verses of the Quran. Struck by the beauty of the words, Umar's heart was softened, and he went on to accept Islam — a turning point in Islamic history.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "lifeWithProphet": {
+      "id": "lifeWithProphet",
+      "label": "Life with the Prophet",
+      "content": [
+        { "text": "Sa'id migrated to Madinah and was a devoted companion of Prophet Muhammad (peace be upon him). He was not present at Badr because the Prophet had sent him on a mission along with Talha ibn Ubaydullah, but the Prophet assigned him a share of the spoils.", "status": "verified" },
+        { "text": "He participated in subsequent battles and campaigns alongside Prophet Muhammad (peace be upon him) and was among the faithful companions who supported the Muslim community throughout its early trials.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "battles": {
+      "id": "battles",
+      "label": "Battles",
+      "content": [
+        { "text": "Sa'id was absent from the Battle of Badr as he was on a scouting mission assigned by Prophet Muhammad (peace be upon him). He participated in the Battles of Uhud, the Trench (Khandaq), and other campaigns.", "status": "verified" },
+        { "text": "During the caliphate of Umar, Sa'id participated in the conquests in the Levant (Sham) region and played a role in the Battle of Yarmouk (15 AH / 636 CE), one of the most decisive battles in Islamic history.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "adulthoodLeadership": {
+      "id": "adulthoodLeadership",
+      "label": "Leadership",
+      "content": [
+        { "text": "Sa'id served in various capacities during the era of the Rightly Guided Caliphs. He participated in the conquest of Damascus and served in administrative roles in the Levant.", "status": "verified" },
+        { "text": "He was known for his piety and his desire to stay away from political conflicts. In his later years, he lived quietly in Madinah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "khilafahRole": {
+      "id": "khilafahRole",
+      "label": "Khilafah",
+      "content": [],
+      "isEmpty": true
+    },
+    "characterVirtues": {
+      "id": "characterVirtues",
+      "label": "Character & Virtues",
+      "content": [
+        { "text": "Sa'id was known for his piety, humility, and his reluctance to involve himself in political disputes. He preferred worship and devotion to power and position.", "status": "verified" },
+        { "text": "He was steadfast in his faith from a very young age and carried on the monotheistic legacy of his father, Zayd ibn Amr, who had sought the truth of God's oneness even before the coming of Islam.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "nicknamesTitles": {
+      "id": "nicknamesTitles",
+      "label": "Nicknames & Titles",
+      "content": [
+        { "text": "Sa'id's kunya was Abu al-Awar. He is primarily known for being one of the Ten Companions Promised Paradise and for his family connection to Umar ibn Al-Khattab through his wife Fatimah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "content": [],
+      "isEmpty": true
+    },
+    "sources": {
+      "id": "sources",
+      "label": "Sources",
+      "content": [
+        { "text": "The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri records the story of Umar's conversion, which involves Sa'id and his wife Fatimah.", "status": "verified" },
+        { "text": "Companions of the Prophet by Abdul Wahid Hamid offers biographical details about Sa'id and his father Zayd ibn Amr's search for monotheism.", "status": "verified" },
+        { "text": "Sahih al-Bukhari and Sahih Muslim contain narrations about Sa'id's father and about his being among the Ten Promised Paradise.", "status": "verified" }
+      ],
+      "isEmpty": false
+    }
+  },
+  "battleParticipation": [
+    { "battleSlug": "uhud", "battleName": "Battle of Uhud", "role": "Warrior" },
+    { "battleSlug": "khandaq", "battleName": "Battle of the Trench", "role": "Defender of Madinah" },
+    { "battleSlug": "khaybar", "battleName": "Battle of Khaybar", "role": "Participant" },
+    { "battleSlug": "hunayn", "battleName": "Battle of Hunayn", "role": "Participant" }
+  ],
+  "primarySources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "Seerah", "verificationStatus": "verified" },
+    { "title": "Companions of the Prophet", "author": "Abdul Wahid Hamid", "type": "Biography", "verificationStatus": "verified" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "Hadith Collection", "verificationStatus": "verified" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "Hadith Collection", "verificationStatus": "verified" }
+  ],
+  "relatedCompanionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "uthman-ibn-affan", "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah", "zubayr-ibn-al-awwam", "abdur-rahman-ibn-awf", "saad-ibn-abi-waqqas", "abu-ubayda-ibn-al-jarrah"
+  ],
+  "metaDescription": "Learn about Sa'id ibn Zayd, one of the Ten Promised Paradise, whose family's embrace of Islam helped lead to the conversion of Umar ibn Al-Khattab.",
+  "excerpt": "Sa'id ibn Zayd was one of the earliest converts to Islam and one of the Ten Promised Paradise. His acceptance of Islam alongside his wife Fatimah bint Al-Khattab played a key role in the conversion of Umar ibn Al-Khattab.",
+  "sortOrder": 9
+}

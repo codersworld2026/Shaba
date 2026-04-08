@@ -1,0 +1,62 @@
+{
+  "id": "badr",
+  "slug": "badr",
+  "nameArabic": "غزوة بدر",
+  "nameEnglish": "Battle of Badr",
+  "alternateNames": ["Ghazwa Badr", "The Day of Furqan"],
+  "date": {
+    "hijri": { "year": 2, "description": "17 Ramadan 2 AH" },
+    "gregorian": { "year": 624, "description": "13 March 624 CE" }
+  },
+  "stats": {
+    "muslimForceSize": "~313",
+    "opposingForceSize": "~1,000",
+    "outcome": "Decisive Muslim Victory",
+    "duration": "Several hours",
+    "location": "Wells of Badr, southwest of Madinah",
+    "locationModern": "Badr, Madinah Province, Saudi Arabia"
+  },
+  "summary": {
+    "text": "The Battle of Badr was the first major military engagement between the early Muslim community of Madinah and the Quraysh of Makkah. Despite being outnumbered roughly three to one, the Muslim force of approximately 313 fighters achieved a decisive victory. This battle is considered a turning point in early Islamic history, establishing the Muslim community as a significant force in the Arabian Peninsula. The Quran refers to this day as 'Yawm al-Furqan' — the Day of Criterion (Surah al-Anfal, 8:41).",
+    "status": "verified"
+  },
+  "background": [
+    { "text": "After migrating to Madinah, the Muslim community faced ongoing hostility from the Quraysh of Makkah, who had confiscated the properties and wealth of the emigrants (Muhajirun). Tensions had been building, and the Muslims sought to intercept a large Quraysh trade caravan returning from Syria as a means of recovering some of their lost wealth.", "status": "verified" },
+    { "text": "The caravan, led by Abu Sufyan, managed to alter its route and avoid the Muslim force. However, the Quraysh in Makkah had already mobilized a large army of approximately 1,000 warriors, choosing to march out and confront the Muslims despite the caravan's escape.", "status": "verified" }
+  ],
+  "events": [
+    { "text": "Prophet Muhammad (peace be upon him) consulted his companions about whether to proceed, and they unanimously expressed their willingness to fight. The Muslim force camped at the wells of Badr, and on the advice of Al-Hubab ibn al-Mundhir, they secured control of the water supply.", "status": "verified" },
+    { "text": "The battle began with individual combat (mubarazah). Three Muslim champions — Ali ibn Abi Talib, Hamza ibn Abd al-Muttalib, and Ubayda ibn al-Harith — faced three Quraysh warriors and were victorious.", "status": "verified" },
+    { "text": "The general engagement followed, with the Muslim fighters displaying extraordinary discipline and courage. Despite their smaller numbers and fewer resources, they routed the Quraysh army. Seventy Quraysh were killed and seventy were taken prisoner.", "status": "verified" }
+  ],
+  "aftermath": [
+    { "text": "The victory at Badr dramatically strengthened the position of the Muslim community in Madinah and throughout the Arabian Peninsula. It demonstrated that the Muslims were a formidable force despite their smaller numbers.", "status": "verified" },
+    { "text": "Prophet Muhammad (peace be upon him) consulted his companions regarding the treatment of prisoners. Following the advice of Abu Bakr, most prisoners were offered release in exchange for ransom, and literate prisoners could earn their freedom by teaching Muslim children to read and write.", "status": "verified" }
+  ],
+  "lessons": [
+    { "text": "The Battle of Badr is regarded in Islamic tradition as a demonstration of divine support for the believers. It underscored the importance of faith, unity, consultation (shura), and discipline in the face of overwhelming odds.", "status": "verified" },
+    { "text": "The Quran devotes significant attention to this battle in Surah al-Anfal (Chapter 8), discussing the ethics of warfare, the distribution of spoils, and the treatment of prisoners — establishing important precedents for Islamic conduct in conflict.", "status": "verified" }
+  ],
+  "notableParticipants": [
+    { "companionSlug": "abu-bakr-as-siddiq", "companionName": "Abu Bakr As-Siddiq", "role": "Close advisor to the Prophet" },
+    { "companionSlug": "umar-ibn-al-khattab", "companionName": "Umar ibn Al-Khattab", "role": "Warrior" },
+    { "companionSlug": "ali-ibn-abi-talib", "companionName": "Ali ibn Abi Talib", "role": "Champion in individual combat" },
+    { "companionSlug": "zubayr-ibn-al-awwam", "companionName": "Al-Zubayr ibn Al-Awwam", "role": "Warrior" },
+    { "companionSlug": "abdur-rahman-ibn-awf", "companionName": "Abdur-Rahman ibn Awf", "role": "Warrior" },
+    { "companionSlug": "saad-ibn-abi-waqqas", "companionName": "Sa'd ibn Abi Waqqas", "role": "Archer" },
+    { "companionSlug": "abu-ubayda-ibn-al-jarrah", "companionName": "Abu Ubayda ibn Al-Jarrah", "role": "Warrior" }
+  ],
+  "companionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "uthman-ibn-affan",
+    "ali-ibn-abi-talib", "zubayr-ibn-al-awwam", "abdur-rahman-ibn-awf",
+    "saad-ibn-abi-waqqas", "abu-ubayda-ibn-al-jarrah"
+  ],
+  "sources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "biography", "verificationStatus": "not-applicable" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "hadith-collection", "verificationStatus": "sahih" },
+    { "title": "The Noble Quran", "author": "", "type": "quran", "reference": "Surah al-Anfal (8)", "verificationStatus": "not-applicable" }
+  ],
+  "topics": ["battles", "badr-veterans"],
+  "metaDescription": "Learn about the Battle of Badr (624 CE), the first major military engagement of early Islam and a turning point in Islamic history.",
+  "excerpt": "The Battle of Badr (2 AH / 624 CE) was the first major battle in Islamic history. Despite being outnumbered three to one, the Muslim force of 313 achieved a decisive victory over the Quraysh of Makkah."
+}

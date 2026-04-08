@@ -1,0 +1,162 @@
+{
+  "id": "abu-ubayda-ibn-al-jarrah",
+  "slug": "abu-ubayda-ibn-al-jarrah",
+  "nameArabic": "أبو عبيدة بن الجراح",
+  "nameEnglish": "Abu Ubayda ibn Al-Jarrah",
+  "fullName": "Amir ibn Abdullah ibn Al-Jarrah",
+  "kunyas": ["Abu Ubayda"],
+  "nicknames": ["Amin al-Ummah"],
+  "titles": ["Trustee of the Ummah (Amin al-Ummah)", "One of the Ten Promised Paradise"],
+  "isCaliph": false,
+  "isAsharaMubasharah": true,
+  "isEarlyConvert": true,
+  "isBadrVeteran": true,
+  "isMuhajir": true,
+  "gender": "male",
+  "topics": ["Ashara Mubasharah", "Early Convert", "Badr Veteran", "Military Leader", "Leadership"],
+  "birthDate": {
+    "hijri": { "year": null, "description": "Approximately 40 years before Hijrah" },
+    "gregorian": { "year": 583, "description": "Approximately 583 CE in Makkah" }
+  },
+  "deathDate": {
+    "hijri": { "year": 18, "description": "18 AH" },
+    "gregorian": { "year": 639, "description": "639 CE in the Jordan Valley" }
+  },
+  "acceptedIslamDate": {
+    "hijri": { "year": null, "description": "Among the earliest converts, through Abu Bakr" },
+    "gregorian": { "year": 611, "description": "Approximately 611 CE" }
+  },
+  "quickFacts": [
+    { "label": "Tribe", "value": "Quraysh (Banu al-Harith)", "icon": "Users" },
+    { "label": "Birthplace", "value": "Makkah", "icon": "MapPin" },
+    { "label": "Title", "value": "Trustee of the Ummah (Amin al-Ummah)", "icon": "Star" },
+    { "label": "Promised Paradise", "value": "One of the Ten (Ashara Mubasharah)", "icon": "Crown" },
+    { "label": "Notable Role", "value": "Supreme Commander of Muslim forces in the Levant", "icon": "Sword" },
+    { "label": "Buried", "value": "Jordan Valley (Ghor al-Safi)", "icon": "Landmark" }
+  ],
+  "patternSeed": 10,
+  "accentColor": "slate",
+  "tabs": {
+    "childhood": {
+      "id": "childhood",
+      "label": "Childhood",
+      "content": [
+        { "text": "Abu Ubayda ibn Al-Jarrah was born around 583 CE in Makkah into the Banu al-Harith ibn Fihr branch of the Quraysh. His birth name was Amir ibn Abdullah ibn Al-Jarrah, and he was known by his kunya Abu Ubayda.", "status": "verified" },
+        { "text": "He grew up in a modest household compared to some other Quraysh families but was known for his gentle character and dignified bearing from an early age.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "beforeIslam": {
+      "id": "beforeIslam",
+      "label": "Before Islam",
+      "content": [
+        { "text": "Before Islam, Abu Ubayda was known for his good character, trustworthiness, and gentle nature. He was thin and tall in stature and was respected by his peers in Makkah.", "status": "verified" },
+        { "text": "He was among the acquaintances of Abu Bakr As-Siddiq and shared many of the same virtuous qualities that marked the earliest Muslims.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "acceptingIslam": {
+      "id": "acceptingIslam",
+      "label": "Accepting Islam",
+      "content": [
+        { "text": "Abu Ubayda accepted Islam at the invitation of Abu Bakr As-Siddiq on the same day as Abdur-Rahman ibn Awf, Uthman ibn Maz'un, and al-Arqam ibn Abi al-Arqam. He was among the earliest converts.", "status": "verified" },
+        { "text": "He endured persecution from the Quraysh due to his faith and participated in the migration to Abyssinia. He later migrated to Madinah during the Hijrah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "lifeWithProphet": {
+      "id": "lifeWithProphet",
+      "label": "Life with the Prophet",
+      "content": [
+        { "text": "Prophet Muhammad (peace be upon him) gave Abu Ubayda the title 'Amin al-Ummah' — the Trustee of the Nation. This title, recorded in Sahih al-Bukhari, reflected the Prophet's confidence in Abu Ubayda's integrity and trustworthiness.", "status": "verified" },
+        { "text": "When the Christians of Najran came to Madinah and asked Prophet Muhammad (peace be upon him) to send them a trustworthy person, he sent Abu Ubayda, saying: 'Every nation has a trustee, and the trustee of this nation is Abu Ubayda ibn Al-Jarrah.'", "status": "verified" },
+        { "text": "He was among the most beloved companions to Prophet Muhammad (peace be upon him) and was known for his simplicity and selfless devotion.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "battles": {
+      "id": "battles",
+      "label": "Battles",
+      "content": [
+        { "text": "Abu Ubayda fought at the Battle of Badr (2 AH), where he faced a deeply painful trial — his own father, who was fighting on the side of the Quraysh, sought him out on the battlefield. After his father persistently pursued him, Abu Ubayda was compelled to defend himself. The Quran is understood by scholars to reference this trial in Surah al-Mujadilah (58:22).", "status": "verified" },
+        { "text": "He participated in every major battle during the lifetime of Prophet Muhammad (peace be upon him), including Uhud, the Trench, Khaybar, and the conquest of Makkah. At Uhud, he was the one who removed the rings of the Prophet's helmet that had been embedded in the Prophet's cheek after he was struck, losing two of his own front teeth in the process.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "adulthoodLeadership": {
+      "id": "adulthoodLeadership",
+      "label": "Leadership",
+      "content": [
+        { "text": "After the death of Prophet Muhammad (peace be upon him), Abu Ubayda was appointed by Abu Bakr as one of the commanders of the Muslim forces sent to the Levant (Sham). During the caliphate of Umar, he was named supreme commander of all Muslim forces in the region.", "status": "verified" },
+        { "text": "Under his leadership, the Muslims achieved significant victories in the Levant, including the peaceful surrender of Jerusalem. When Umar visited the Levant, he stayed with Abu Ubayda and was struck by his companion's simple lifestyle despite his position of authority.", "status": "verified" },
+        { "text": "Abu Ubayda died during the Plague of Amwas (18 AH / 639 CE) in the Jordan Valley, along with many other companions. Before his death, he urged the Muslims to maintain their faith and unity.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "khilafahRole": {
+      "id": "khilafahRole",
+      "label": "Khilafah",
+      "content": [],
+      "isEmpty": true
+    },
+    "characterVirtues": {
+      "id": "characterVirtues",
+      "label": "Character & Virtues",
+      "content": [
+        { "text": "Abu Ubayda was defined by his trustworthiness — hence his title 'Amin al-Ummah.' Prophet Muhammad (peace be upon him) explicitly praised this quality above all others in him.", "status": "verified" },
+        { "text": "Despite commanding vast armies and governing significant territories, Abu Ubayda lived with extreme simplicity. When Umar visited him in the Levant, he found Abu Ubayda's home nearly empty of possessions, which moved Umar to tears.", "status": "verified" },
+        { "text": "He was gentle, humble, and completely free of arrogance. He once said: 'I wish I were a ram that my family would slaughter, eat my flesh, and drink my broth,' expressing his desire to have no account before Allah.", "status": "reported" }
+      ],
+      "isEmpty": false
+    },
+    "nicknamesTitles": {
+      "id": "nicknamesTitles",
+      "label": "Nicknames & Titles",
+      "content": [
+        { "text": "His most famous title was 'Amin al-Ummah' (Trustee of the Nation), given to him by Prophet Muhammad (peace be upon him). This hadith is recorded in Sahih al-Bukhari.", "status": "verified" },
+        { "text": "His kunya was Abu Ubayda, by which he was commonly known. His birth name was Amir ibn Abdullah ibn Al-Jarrah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "content": [
+        { "text": "Abu Ubayda is remembered as one of the greatest companions — a man of unparalleled integrity, selfless leadership, and deep humility. His title 'Trustee of the Nation' became one of the most honored epithets in Islamic history.", "status": "verified" },
+        { "text": "His death during the Plague of Amwas was a great loss to the Muslim community. Umar ibn Al-Khattab reportedly said that if Abu Ubayda were alive, he would have appointed him as his successor, such was his trust in this companion.", "status": "reported" }
+      ],
+      "isEmpty": false
+    },
+    "sources": {
+      "id": "sources",
+      "label": "Sources",
+      "content": [
+        { "text": "The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri provides accounts of Abu Ubayda's participation in battles and his role during the Prophetic era.", "status": "verified" },
+        { "text": "Companions of the Prophet by Abdul Wahid Hamid offers biographical details about Abu Ubayda's life, his title, and his leadership in the Levant.", "status": "verified" },
+        { "text": "Sahih al-Bukhari and Sahih Muslim contain authentic hadith narrations about his title as 'Amin al-Ummah' and his being among the Ten Promised Paradise.", "status": "verified" }
+      ],
+      "isEmpty": false
+    }
+  },
+  "battleParticipation": [
+    { "battleSlug": "badr", "battleName": "Battle of Badr", "role": "Warrior" },
+    { "battleSlug": "uhud", "battleName": "Battle of Uhud", "role": "Removed metal from the Prophet's face, lost two teeth" },
+    { "battleSlug": "khandaq", "battleName": "Battle of the Trench", "role": "Defender of Madinah" },
+    { "battleSlug": "khaybar", "battleName": "Battle of Khaybar", "role": "Participant" },
+    { "battleSlug": "hunayn", "battleName": "Battle of Hunayn", "role": "Participant" },
+    { "battleSlug": "tabuk", "battleName": "Expedition of Tabuk", "role": "Participant" }
+  ],
+  "primarySources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "Seerah", "verificationStatus": "verified" },
+    { "title": "Companions of the Prophet", "author": "Abdul Wahid Hamid", "type": "Biography", "verificationStatus": "verified" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "Hadith Collection", "verificationStatus": "verified" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "Hadith Collection", "verificationStatus": "verified" }
+  ],
+  "relatedCompanionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "uthman-ibn-affan", "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah", "zubayr-ibn-al-awwam", "abdur-rahman-ibn-awf", "saad-ibn-abi-waqqas", "said-ibn-zayd"
+  ],
+  "metaDescription": "Learn about Abu Ubayda ibn Al-Jarrah, the Trustee of the Ummah and one of the Ten Promised Paradise, known for his integrity, humility, and military leadership in the Levant.",
+  "excerpt": "Abu Ubayda ibn Al-Jarrah was honored by Prophet Muhammad (peace be upon him) with the title 'Amin al-Ummah' — the Trustee of the Nation. One of the Ten Promised Paradise, he was renowned for his integrity, humility, and selfless leadership.",
+  "sortOrder": 10
+}

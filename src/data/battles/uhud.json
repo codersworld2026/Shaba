@@ -1,0 +1,64 @@
+{
+  "id": "uhud",
+  "slug": "uhud",
+  "nameArabic": "غزوة أحد",
+  "nameEnglish": "Battle of Uhud",
+  "alternateNames": ["Ghazwa Uhud"],
+  "date": {
+    "hijri": { "year": 3, "description": "7 Shawwal 3 AH" },
+    "gregorian": { "year": 625, "description": "23 March 625 CE" }
+  },
+  "stats": {
+    "muslimForceSize": "~700 (after 300 deserted)",
+    "opposingForceSize": "~3,000",
+    "outcome": "Quraysh tactical advantage; Muslim strategic resilience",
+    "duration": "One day",
+    "location": "Mount Uhud, north of Madinah",
+    "locationModern": "Uhud, Madinah, Saudi Arabia"
+  },
+  "summary": {
+    "text": "The Battle of Uhud was the second major military engagement between the Muslims and the Quraysh. The Quraysh, seeking revenge for their defeat at Badr, marched on Madinah with an army of 3,000. The battle saw initial Muslim success followed by a reversal when archers left their positions. Prophet Muhammad (peace be upon him) was wounded, and seventy Muslims were martyred, including Hamza ibn Abd al-Muttalib. Despite the setback, the Muslim community demonstrated resilience and drew lasting lessons about discipline and obedience.",
+    "status": "verified"
+  },
+  "background": [
+    { "text": "The Quraysh of Makkah were determined to avenge their defeat at Badr. Abu Sufyan led an army of approximately 3,000 warriors toward Madinah, including 700 armored soldiers and 200 cavalry.", "status": "verified" },
+    { "text": "Prophet Muhammad (peace be upon him) initially favored defending from within Madinah, but many younger companions, eager to fight, advocated going out to meet the enemy. The Prophet consulted his companions and accepted the majority opinion to march out.", "status": "verified" }
+  ],
+  "events": [
+    { "text": "The Muslim army initially numbered around 1,000, but Abdullah ibn Ubayy (leader of the hypocrites) withdrew with 300 of his followers before the battle, reducing the Muslim force to approximately 700.", "status": "verified" },
+    { "text": "Prophet Muhammad (peace be upon him) stationed fifty archers on a hill with strict orders not to leave their positions under any circumstances. The initial Muslim charge was successful and the Quraysh began to retreat.", "status": "verified" },
+    { "text": "Seeing the apparent victory, most of the archers abandoned their positions to collect spoils, despite the orders. The Quraysh cavalry commander Khalid ibn al-Walid (who had not yet accepted Islam) exploited this opening, attacking the Muslims from behind and turning the tide of battle.", "status": "verified" },
+    { "text": "In the confusion, Prophet Muhammad (peace be upon him) was struck and wounded — his helmet rings were driven into his cheek, and a false rumor spread that he had been killed. Key companions including Abu Bakr, Umar, Ali, Talha, and Abu Ubayda rallied around the Prophet to protect him.", "status": "verified" }
+  ],
+  "aftermath": [
+    { "text": "Seventy Muslim fighters were martyred at Uhud, including Hamza ibn Abd al-Muttalib, the Prophet's uncle, who was known as 'The Lion of Allah.' The Quraysh, though having gained the upper hand, did not pursue a full assault on Madinah and withdrew.", "status": "verified" },
+    { "text": "The battle served as a profound lesson for the Muslim community about the consequences of disobedience and the importance of discipline. The Quran discusses this battle extensively in Surah Aal-e-Imran (Chapter 3).", "status": "verified" }
+  ],
+  "lessons": [
+    { "text": "Uhud taught the Muslim community that victory is not guaranteed and that discipline, obedience to leadership, and unity are essential. The Quran addresses the lessons of Uhud in Surah Aal-e-Imran (3:121-179).", "status": "verified" },
+    { "text": "The battle also demonstrated the extraordinary courage and sacrifice of individual companions, particularly Talha ibn Ubaydullah, who shielded the Prophet with his body, and Abu Ubayda, who extracted metal from the Prophet's face.", "status": "verified" }
+  ],
+  "notableParticipants": [
+    { "companionSlug": "abu-bakr-as-siddiq", "companionName": "Abu Bakr As-Siddiq", "role": "Defended the Prophet" },
+    { "companionSlug": "umar-ibn-al-khattab", "companionName": "Umar ibn Al-Khattab", "role": "Warrior" },
+    { "companionSlug": "uthman-ibn-affan", "companionName": "Uthman ibn Affan", "role": "Participant (briefly separated from the main force)" },
+    { "companionSlug": "ali-ibn-abi-talib", "companionName": "Ali ibn Abi Talib", "role": "Defended the Prophet, standard bearer" },
+    { "companionSlug": "talha-ibn-ubaydullah", "companionName": "Talha ibn Ubaydullah", "role": "Shielded the Prophet, sustained over 70 wounds" },
+    { "companionSlug": "zubayr-ibn-al-awwam", "companionName": "Al-Zubayr ibn Al-Awwam", "role": "Warrior" },
+    { "companionSlug": "saad-ibn-abi-waqqas", "companionName": "Sa'd ibn Abi Waqqas", "role": "Archer" },
+    { "companionSlug": "abu-ubayda-ibn-al-jarrah", "companionName": "Abu Ubayda ibn Al-Jarrah", "role": "Removed metal from the Prophet's face" }
+  ],
+  "companionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "uthman-ibn-affan", "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah", "zubayr-ibn-al-awwam", "saad-ibn-abi-waqqas",
+    "said-ibn-zayd", "abu-ubayda-ibn-al-jarrah", "abdur-rahman-ibn-awf"
+  ],
+  "sources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "biography", "verificationStatus": "not-applicable" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "hadith-collection", "verificationStatus": "sahih" },
+    { "title": "The Noble Quran", "author": "", "type": "quran", "reference": "Surah Aal-e-Imran (3:121-179)", "verificationStatus": "not-applicable" }
+  ],
+  "topics": ["battles"],
+  "metaDescription": "Learn about the Battle of Uhud (625 CE), the second major battle in Islamic history, its lessons about discipline, and the heroism of the companions.",
+  "excerpt": "The Battle of Uhud (3 AH / 625 CE) was the second major engagement between the Muslims and the Quraysh. Despite initial success, a tactical error led to a reversal, teaching the Muslim community lasting lessons about discipline and obedience."
+}

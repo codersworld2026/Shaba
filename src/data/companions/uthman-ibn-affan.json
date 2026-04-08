@@ -1,0 +1,177 @@
+{
+  "id": "uthman-ibn-affan",
+  "slug": "uthman-ibn-affan",
+  "nameArabic": "عثمان بن عفان",
+  "nameEnglish": "Uthman ibn Affan",
+  "fullName": "Uthman ibn Affan ibn Abi al-As",
+  "kunyas": ["Abu Abdullah", "Abu Amr"],
+  "nicknames": ["Dhun-Nurayn"],
+  "titles": ["Dhun-Nurayn (The Possessor of Two Lights)", "Al-Ghani (The Generous)"],
+  "isCaliph": true,
+  "caliphOrder": 3,
+  "isAsharaMubasharah": true,
+  "isEarlyConvert": true,
+  "isBadrVeteran": false,
+  "isMuhajir": true,
+  "gender": "male",
+  "topics": ["Third Caliph", "Ashara Mubasharah", "Compilation of the Quran", "Early Convert", "Generosity"],
+  "birthDate": {
+    "hijri": { "year": null, "description": "Approximately 47 years before Hijrah" },
+    "gregorian": { "year": 576, "description": "Approximately 576 CE in Ta'if" }
+  },
+  "deathDate": {
+    "hijri": { "year": 35, "description": "18 Dhul Hijjah 35 AH" },
+    "gregorian": { "year": 656, "description": "17 June 656 CE in Madinah" }
+  },
+  "acceptedIslamDate": {
+    "hijri": { "year": null, "description": "Among the earliest converts, before Hijrah" },
+    "gregorian": { "year": 611, "description": "Approximately 611 CE, through the invitation of Abu Bakr" }
+  },
+  "quickFacts": [
+    { "label": "Tribe", "value": "Quraysh (Banu Umayyah)", "icon": "Users" },
+    { "label": "Birthplace", "value": "Ta'if (some sources say Makkah)", "icon": "MapPin" },
+    { "label": "Title", "value": "Dhun-Nurayn (Possessor of Two Lights)", "icon": "Star" },
+    { "label": "Caliphate", "value": "3rd Caliph (644-656 CE)", "icon": "Crown" },
+    { "label": "Known For", "value": "Standardization of the Quran", "icon": "BookOpen" },
+    { "label": "Buried", "value": "Al-Baqi Cemetery, Madinah", "icon": "Landmark" }
+  ],
+  "patternSeed": 3,
+  "accentColor": "amber",
+  "tabs": {
+    "childhood": {
+      "id": "childhood",
+      "label": "Childhood",
+      "content": [
+        { "text": "Uthman ibn Affan was born around 576 CE into the wealthy and influential Banu Umayyah clan of the Quraysh tribe. His father was Affan ibn Abi al-As, a prosperous merchant.", "status": "verified" },
+        { "text": "He grew up in a privileged household and received a good education by the standards of his time. Uthman was known from his youth for his modest and reserved demeanor.", "status": "verified" },
+        { "text": "Some sources indicate he was born in Ta'if, though other accounts place his birth in Makkah. He was raised in Makkah and became familiar with trade and commerce from an early age.", "status": "reported" }
+      ],
+      "isEmpty": false
+    },
+    "beforeIslam": {
+      "id": "beforeIslam",
+      "label": "Before Islam",
+      "content": [
+        { "text": "Before Islam, Uthman was one of the wealthiest merchants in Makkah, known for his successful trade caravans. He inherited considerable wealth from his father and expanded it significantly through his own commercial endeavors.", "status": "verified" },
+        { "text": "He was known for his refined character, modesty, and generosity even before accepting Islam. Uthman was considered one of the most handsome and well-mannered men of the Quraysh.", "status": "verified" },
+        { "text": "Unlike many of his contemporaries, Uthman reportedly abstained from alcohol and idol worship even in the pre-Islamic period, finding them distasteful.", "status": "reported" }
+      ],
+      "isEmpty": false
+    },
+    "acceptingIslam": {
+      "id": "acceptingIslam",
+      "label": "Accepting Islam",
+      "content": [
+        { "text": "Uthman was among the earliest converts to Islam, accepting the faith through the invitation of Abu Bakr As-Siddiq. He was one of the first people in Makkah to respond to the message of Prophet Muhammad (peace be upon him).", "status": "verified" },
+        { "text": "After his conversion, Uthman faced persecution from his own clan, including from his uncle Al-Hakam ibn Abi al-As. Despite this, he remained steadfast in his faith and dedicated his wealth to supporting the Muslim community.", "status": "verified" },
+        { "text": "Uthman and his wife Ruqayyah, the daughter of Prophet Muhammad (peace be upon him), made the first Hijrah to Abyssinia to escape the persecution of the Quraysh, making them among the first emigrants in Islam.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "lifeWithProphet": {
+      "id": "lifeWithProphet",
+      "label": "Life with the Prophet",
+      "content": [
+        { "text": "Uthman married two daughters of Prophet Muhammad (peace be upon him): first Ruqayyah, and after her passing, Umm Kulthum. This distinction earned him the title Dhun-Nurayn (Possessor of Two Lights).", "status": "verified" },
+        { "text": "He financed the expansion of the Prophet's Mosque (Al-Masjid an-Nabawi) in Madinah and purchased the well of Rumah to provide free water to the Muslim community, at the Prophet's request.", "status": "verified" },
+        { "text": "During the preparation for the Expedition of Tabuk, Uthman provided an enormous contribution of 300 camels, 1,000 dinars, and other supplies, prompting Prophet Muhammad (peace be upon him) to say that nothing Uthman does after this day will harm him.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "battles": {
+      "id": "battles",
+      "label": "Battles",
+      "content": [
+        { "text": "Uthman did not participate in the Battle of Badr (2 AH) because Prophet Muhammad (peace be upon him) instructed him to stay behind to care for his ill wife Ruqayyah, who passed away during that time. Despite his absence, the Prophet counted him among the people of Badr and gave him a share of the spoils.", "status": "verified" },
+        { "text": "He participated in the Battle of the Trench (Khandaq, 5 AH) and was present at the pledge of Ridwan at Hudaybiyyah (6 AH), where Prophet Muhammad (peace be upon him) represented him by placing his own hand on behalf of Uthman.", "status": "verified" },
+        { "text": "Uthman was present at the Battle of Uhud (3 AH) and participated in subsequent military campaigns, though his primary contributions to the Muslim cause were through his extraordinary financial generosity.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "adulthoodLeadership": {
+      "id": "adulthoodLeadership",
+      "label": "Leadership",
+      "content": [
+        { "text": "Uthman was selected as the third Caliph by the Shura council appointed by Umar ibn Al-Khattab before his death. He assumed the caliphate in 23 AH (644 CE) and led the Muslim community for approximately twelve years.", "status": "verified" },
+        { "text": "His most enduring achievement as Caliph was the standardization and distribution of the Quran. He commissioned the compilation of a standardized text (known as the Uthmani Mushaf) and sent copies to major Muslim cities to ensure uniformity in recitation.", "status": "verified" },
+        { "text": "Under his leadership, the Muslim state continued to expand, with conquests reaching into parts of North Africa, Cyprus, and further into Persia. He also expanded the Prophet's Mosque in Madinah and Al-Masjid al-Haram in Makkah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "khilafahRole": {
+      "id": "khilafahRole",
+      "label": "Khilafah",
+      "content": [
+        { "text": "Uthman served as the third Caliph of Islam from 644 to 656 CE (23-35 AH). The first six years of his caliphate were marked by continued expansion, prosperity, and stability within the Muslim state.", "status": "verified" },
+        { "text": "His standardization of the Quran into a single authorized text was one of the most significant contributions to Islamic history. He ordered the compilation of a definitive written copy and had all variant personal copies retired to prevent discrepancies.", "status": "verified" },
+        { "text": "The latter years of his caliphate saw internal dissent and political turmoil. Uthman was besieged in his home by dissidents and was martyred on 18 Dhul Hijjah 35 AH (656 CE) while reciting the Quran, an event that deeply impacted the Muslim community.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "characterVirtues": {
+      "id": "characterVirtues",
+      "label": "Character & Virtues",
+      "content": [
+        { "text": "Uthman was renowned for his exceptional modesty (haya). Prophet Muhammad (peace be upon him) said that even the angels felt shy before Uthman, as narrated in Sahih Muslim. He was known for his gentle, reserved, and dignified demeanor.", "status": "verified" },
+        { "text": "His generosity was extraordinary. He repeatedly spent vast sums of his personal wealth to support the Muslim community, including purchasing the well of Rumah, financing the Tabuk expedition, and expanding the Prophet's Mosque.", "status": "verified" },
+        { "text": "Uthman was devoted to the Quran and was known for spending long hours in night prayer. He is reported to have completed the recitation of the entire Quran in a single night on numerous occasions.", "status": "reported" }
+      ],
+      "isEmpty": false
+    },
+    "nicknamesTitles": {
+      "id": "nicknamesTitles",
+      "label": "Nicknames & Titles",
+      "content": [
+        { "text": "He was called 'Dhun-Nurayn' (The Possessor of Two Lights) because he married two daughters of Prophet Muhammad (peace be upon him): Ruqayyah and, after her death, Umm Kulthum. No other man is known to have married two daughters of a Prophet.", "status": "verified" },
+        { "text": "He was also known as 'Al-Ghani' (The Generous) due to his immense charitable spending in the cause of Islam. His kunya was Abu Abdullah (after his son from Ruqayyah) and also Abu Amr.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "content": [
+        { "text": "Uthman's most lasting legacy is the standardization of the Quran. The Uthmani Mushaf became the basis for all subsequent copies of the Quran and ensured the uniform preservation of the text across the Muslim world.", "status": "verified" },
+        { "text": "His caliphate oversaw significant territorial expansion and the development of the first Muslim navy, which successfully conquered Cyprus. He also expanded the Two Holy Mosques in Makkah and Madinah.", "status": "verified" },
+        { "text": "Uthman is buried in Al-Baqi Cemetery in Madinah. He is remembered as a pious, generous, and modest leader whose contributions to the preservation of the Quran remain his greatest service to the Muslim Ummah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "sources": {
+      "id": "sources",
+      "label": "Sources",
+      "content": [
+        { "text": "The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri provides context for Uthman's role during the Prophetic era, including his marriages to the Prophet's daughters and his contributions.", "status": "verified" },
+        { "text": "Companions of the Prophet by Abdul Wahid Hamid offers accessible biographical details about Uthman's life, character, and his pivotal role in the compilation of the Quran.", "status": "verified" },
+        { "text": "Sahih al-Bukhari and Sahih Muslim contain numerous authentic hadith narrations about Uthman's virtues, his modesty, his generosity, and his standing with Prophet Muhammad (peace be upon him).", "status": "verified" }
+      ],
+      "isEmpty": false
+    }
+  },
+  "battleParticipation": [
+    { "battleSlug": "uhud", "battleName": "Battle of Uhud", "role": "Participant" },
+    { "battleSlug": "khandaq", "battleName": "Battle of the Trench", "role": "Participant in the defense of Madinah" },
+    { "battleSlug": "khaybar", "battleName": "Battle of Khaybar", "role": "Participant" },
+    { "battleSlug": "tabuk", "battleName": "Expedition of Tabuk", "role": "Major financier of the expedition" }
+  ],
+  "primarySources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "Seerah", "verificationStatus": "verified" },
+    { "title": "Companions of the Prophet", "author": "Abdul Wahid Hamid", "type": "Biography", "verificationStatus": "verified" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "Hadith Collection", "verificationStatus": "verified" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "Hadith Collection", "verificationStatus": "verified" }
+  ],
+  "relatedCompanionSlugs": [
+    "abu-bakr-as-siddiq",
+    "umar-ibn-al-khattab",
+    "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah",
+    "zubayr-ibn-al-awwam",
+    "abdur-rahman-ibn-awf",
+    "saad-ibn-abi-waqqas",
+    "said-ibn-zayd",
+    "abu-ubayda-ibn-al-jarrah"
+  ],
+  "metaDescription": "Learn about Uthman ibn Affan (Dhun-Nurayn), the third Caliph of Islam known for standardizing the Quran and his extraordinary generosity and modesty.",
+  "excerpt": "Uthman ibn Affan, known as Dhun-Nurayn (Possessor of Two Lights), was the third Caliph of Islam whose most lasting legacy is the standardization of the Quran into a single authorized text.",
+  "sortOrder": 3
+}

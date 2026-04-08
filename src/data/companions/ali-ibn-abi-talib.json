@@ -1,0 +1,177 @@
+{
+  "id": "ali-ibn-abi-talib",
+  "slug": "ali-ibn-abi-talib",
+  "nameArabic": "علي بن أبي طالب",
+  "nameEnglish": "Ali ibn Abi Talib",
+  "fullName": "Ali ibn Abi Talib ibn Abd al-Muttalib",
+  "kunyas": ["Abu al-Hasan", "Abu Turab"],
+  "nicknames": ["Asadullah", "Abu Turab"],
+  "titles": ["Asadullah (Lion of Allah)", "Bab al-Ilm (Gate of Knowledge)", "Abu Turab (Father of Dust)"],
+  "isCaliph": true,
+  "caliphOrder": 4,
+  "isAsharaMubasharah": true,
+  "isEarlyConvert": true,
+  "isBadrVeteran": true,
+  "isMuhajir": true,
+  "gender": "male",
+  "topics": ["Fourth Caliph", "Ashara Mubasharah", "Ahl al-Bayt", "Early Convert", "Knowledge and Jurisprudence", "Bravery"],
+  "birthDate": {
+    "hijri": { "year": null, "description": "Approximately 32 years before Hijrah" },
+    "gregorian": { "year": 601, "description": "Approximately 600-601 CE in Makkah" }
+  },
+  "deathDate": {
+    "hijri": { "year": 40, "description": "21 Ramadan 40 AH" },
+    "gregorian": { "year": 661, "description": "28 January 661 CE in Kufa" }
+  },
+  "acceptedIslamDate": {
+    "hijri": { "year": null, "description": "Among the very first to accept Islam, as a young boy" },
+    "gregorian": { "year": 610, "description": "Approximately 610 CE, one of the earliest to accept Islam" }
+  },
+  "quickFacts": [
+    { "label": "Tribe", "value": "Quraysh (Banu Hashim)", "icon": "Users" },
+    { "label": "Birthplace", "value": "Makkah", "icon": "MapPin" },
+    { "label": "Title", "value": "Asadullah (Lion of Allah)", "icon": "Star" },
+    { "label": "Caliphate", "value": "4th Caliph (656-661 CE)", "icon": "Crown" },
+    { "label": "Known For", "value": "Knowledge, bravery, and eloquence", "icon": "BookOpen" },
+    { "label": "Buried", "value": "Najaf, Iraq", "icon": "Landmark" }
+  ],
+  "patternSeed": 4,
+  "accentColor": "red",
+  "tabs": {
+    "childhood": {
+      "id": "childhood",
+      "label": "Childhood",
+      "content": [
+        { "text": "Ali ibn Abi Talib was born around 600-601 CE in Makkah into the Banu Hashim clan of the Quraysh, the same clan as Prophet Muhammad (peace be upon him). His father was Abu Talib, the uncle and guardian of the Prophet.", "status": "verified" },
+        { "text": "Ali was raised in the household of Prophet Muhammad (peace be upon him) from a young age, after the Prophet took him in to help ease the financial burden on Abu Talib during a period of hardship in Makkah.", "status": "verified" },
+        { "text": "Growing up under the direct care of Prophet Muhammad (peace be upon him), Ali developed a deep bond with the Prophet from his earliest years. He witnessed the first moments of the revelation and was profoundly shaped by this experience.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "beforeIslam": {
+      "id": "beforeIslam",
+      "label": "Before Islam",
+      "content": [
+        { "text": "Ali was very young when Islam was revealed, having been raised in the household of Prophet Muhammad (peace be upon him). He had minimal exposure to the practices of pre-Islamic Arabia compared to older companions.", "status": "verified" },
+        { "text": "His upbringing under the Prophet's care meant that he grew up with the values that would later define Islamic character. He never worshipped idols, a distinction he shared with very few of the companions.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "acceptingIslam": {
+      "id": "acceptingIslam",
+      "label": "Accepting Islam",
+      "content": [
+        { "text": "Ali was one of the very first people to accept Islam. According to most historical accounts, he accepted Islam as a young boy, making him the first male youth to embrace the faith.", "status": "verified" },
+        { "text": "When Prophet Muhammad (peace be upon him) first gathered his close relatives to invite them to Islam, Ali was the only one who stood in support of the Prophet's message, despite being the youngest present.", "status": "verified" },
+        { "text": "On the night of the Hijrah, Ali risked his life by sleeping in the bed of Prophet Muhammad (peace be upon him) to deceive the Quraysh assassins who had surrounded the Prophet's house, allowing the Prophet to escape safely to Madinah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "lifeWithProphet": {
+      "id": "lifeWithProphet",
+      "label": "Life with the Prophet",
+      "content": [
+        { "text": "Ali married Fatimah, the daughter of Prophet Muhammad (peace be upon him), in 2 AH. Together they had sons Al-Hasan and Al-Husayn, whom the Prophet deeply loved and called the leaders of the youth of Paradise.", "status": "verified" },
+        { "text": "Prophet Muhammad (peace be upon him) said to Ali: 'You are to me as Harun was to Musa, except that there is no prophet after me.' This hadith, known as Hadith al-Manzilah, is narrated in both Sahih al-Bukhari and Sahih Muslim.", "status": "verified" },
+        { "text": "Ali served as the scribe of the Treaty of Hudaybiyyah and was entrusted by the Prophet with numerous important tasks, including carrying the banner in several battles and serving as the governor of Madinah during the Tabuk expedition.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "battles": {
+      "id": "battles",
+      "label": "Battles",
+      "content": [
+        { "text": "Ali was a renowned warrior and fought at the Battle of Badr (2 AH), where he engaged in single combat and was among the most distinguished fighters. He carried the banner of the Muslim forces in several engagements.", "status": "verified" },
+        { "text": "At the Battle of Uhud (3 AH), Ali was one of the companions who remained steadfast in defending Prophet Muhammad (peace be upon him) when many had retreated. He sustained numerous wounds protecting the Prophet.", "status": "verified" },
+        { "text": "At the Battle of Khaybar (7 AH), after others had been unable to break through, Prophet Muhammad (peace be upon him) gave the banner to Ali, saying he would give it to someone who loves Allah and His Messenger. Ali then led the Muslims to victory.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "adulthoodLeadership": {
+      "id": "adulthoodLeadership",
+      "label": "Leadership",
+      "content": [
+        { "text": "Ali became the fourth Caliph in 35 AH (656 CE) following the assassination of Uthman ibn Affan. His caliphate was a period of significant internal challenges within the Muslim community.", "status": "verified" },
+        { "text": "He was renowned as one of the most knowledgeable companions in matters of Islamic jurisprudence, Quranic interpretation, and the teachings of Prophet Muhammad (peace be upon him). The Prophet said: 'I am the city of knowledge and Ali is its gate.'", "status": "verified" },
+        { "text": "Ali moved the capital of the caliphate from Madinah to Kufa in Iraq to better manage the affairs of the expanding Muslim state. He was known for his emphasis on justice and equity in governance.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "khilafahRole": {
+      "id": "khilafahRole",
+      "label": "Khilafah",
+      "content": [
+        { "text": "Ali served as the fourth Caliph of Islam from 656 to 661 CE (35-40 AH). His caliphate was marked by internal political conflicts that arose after the assassination of Uthman.", "status": "verified" },
+        { "text": "His reign included the Battle of the Camel (36 AH) and the Battle of Siffin (37 AH), which were internal conflicts within the Muslim community. These events were among the most difficult chapters of early Islamic history.", "status": "verified" },
+        { "text": "Ali was martyred on 21 Ramadan 40 AH (January 661 CE) when he was struck by a Kharijite named Abd al-Rahman ibn Muljam while performing the Fajr prayer in the Grand Mosque of Kufa.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "characterVirtues": {
+      "id": "characterVirtues",
+      "label": "Character & Virtues",
+      "content": [
+        { "text": "Ali was celebrated for his profound knowledge, eloquence, and wisdom. His sermons, letters, and sayings were compiled into Nahj al-Balagha (Peak of Eloquence), one of the most revered works of Arabic literature.", "status": "verified" },
+        { "text": "He was known for his exceptional bravery in battle, earning the title Asadullah (Lion of Allah). Despite his martial prowess, he was equally known for his mercy, often advising restraint and forgiveness.", "status": "verified" },
+        { "text": "Ali lived a life of simplicity and austerity, despite his position. He was known for his devotion to prayer and was described as one of the most ascetic and pious of the companions.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "nicknamesTitles": {
+      "id": "nicknamesTitles",
+      "label": "Nicknames & Titles",
+      "content": [
+        { "text": "He was called 'Asadullah' (Lion of Allah) and 'Haydar' (Lion) in recognition of his extraordinary bravery and skill in battle, particularly at Badr and Khaybar.", "status": "verified" },
+        { "text": "Prophet Muhammad (peace be upon him) called him 'Abu Turab' (Father of Dust), a name Ali cherished deeply. He was also called 'Bab al-Ilm' (Gate of Knowledge) based on the Prophet's statement that he was the gate to the city of knowledge.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "content": [
+        { "text": "Ali is revered across the Muslim world as a paragon of knowledge, justice, and devotion. He is held in the highest regard by both Sunni and Shia Muslims, who honor him for his closeness to Prophet Muhammad (peace be upon him) and his exemplary character.", "status": "verified" },
+        { "text": "His contributions to Islamic jurisprudence, theology, and Arabic literature have had a lasting impact on Islamic civilization. The sayings and rulings attributed to him continue to be studied and cited by scholars.", "status": "verified" },
+        { "text": "Ali is buried in Najaf, Iraq, where the Imam Ali Mosque stands as one of the most visited sites in the Muslim world. His legacy as a scholar, warrior, and leader endures in the consciousness of the Muslim Ummah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "sources": {
+      "id": "sources",
+      "label": "Sources",
+      "content": [
+        { "text": "The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri provides detailed accounts of Ali's role during the Prophetic era, including his participation in major battles and key events.", "status": "verified" },
+        { "text": "Companions of the Prophet by Abdul Wahid Hamid offers accessible biographical narratives about Ali's life, knowledge, and contributions to early Islam.", "status": "verified" },
+        { "text": "Sahih al-Bukhari and Sahih Muslim contain numerous authentic hadith narrations about Ali's virtues, his closeness to Prophet Muhammad (peace be upon him), and his distinguished status among the companions.", "status": "verified" }
+      ],
+      "isEmpty": false
+    }
+  },
+  "battleParticipation": [
+    { "battleSlug": "badr", "battleName": "Battle of Badr", "role": "Standard bearer and prominent warrior" },
+    { "battleSlug": "uhud", "battleName": "Battle of Uhud", "role": "Defender of the Prophet" },
+    { "battleSlug": "khandaq", "battleName": "Battle of the Trench", "role": "Fought in single combat against Amr ibn Abd Wudd" },
+    { "battleSlug": "khaybar", "battleName": "Battle of Khaybar", "role": "Led the Muslim forces to victory" },
+    { "battleSlug": "hunayn", "battleName": "Battle of Hunayn", "role": "Stood firm alongside the Prophet" }
+  ],
+  "primarySources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "Seerah", "verificationStatus": "verified" },
+    { "title": "Companions of the Prophet", "author": "Abdul Wahid Hamid", "type": "Biography", "verificationStatus": "verified" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "Hadith Collection", "verificationStatus": "verified" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "Hadith Collection", "verificationStatus": "verified" }
+  ],
+  "relatedCompanionSlugs": [
+    "abu-bakr-as-siddiq",
+    "umar-ibn-al-khattab",
+    "uthman-ibn-affan",
+    "talha-ibn-ubaydullah",
+    "zubayr-ibn-al-awwam",
+    "abdur-rahman-ibn-awf",
+    "saad-ibn-abi-waqqas",
+    "said-ibn-zayd",
+    "abu-ubayda-ibn-al-jarrah"
+  ],
+  "metaDescription": "Learn about Ali ibn Abi Talib, the fourth Caliph of Islam, cousin and son-in-law of Prophet Muhammad (peace be upon him), renowned for his knowledge, bravery, and justice.",
+  "excerpt": "Ali ibn Abi Talib was the cousin and son-in-law of Prophet Muhammad (peace be upon him), the fourth Caliph of Islam, and one of the most knowledgeable and courageous companions.",
+  "sortOrder": 4
+}

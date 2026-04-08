@@ -1,0 +1,58 @@
+{
+  "id": "khaybar",
+  "slug": "khaybar",
+  "nameArabic": "غزوة خيبر",
+  "nameEnglish": "Battle of Khaybar",
+  "alternateNames": ["Ghazwa Khaybar", "Siege of Khaybar"],
+  "date": {
+    "hijri": { "year": 7, "description": "Muharram 7 AH" },
+    "gregorian": { "year": 628, "description": "May/June 628 CE" }
+  },
+  "stats": {
+    "muslimForceSize": "~1,400–1,600",
+    "opposingForceSize": "~10,000 (in multiple fortresses)",
+    "outcome": "Muslim Victory",
+    "duration": "Approximately one month (siege)",
+    "location": "Khaybar oasis, north of Madinah",
+    "locationModern": "Khaybar, Madinah Province, Saudi Arabia"
+  },
+  "summary": {
+    "text": "The Battle of Khaybar was a series of sieges against the fortified settlements of Khaybar, an oasis located approximately 150 km north of Madinah. The Muslim force besieged and captured multiple fortresses over the course of about a month. The victory secured the northern approaches to Madinah and established an important precedent for the treatment of conquered populations in Islamic governance.",
+    "status": "verified"
+  },
+  "background": [
+    { "text": "Khaybar was a well-fortified oasis consisting of several forts and settlements. Some of the leaders who had been expelled from Madinah had settled there and had played a role in organizing the coalition during the Battle of the Trench.", "status": "verified" },
+    { "text": "After the Treaty of Hudaybiyyah secured a truce with the Quraysh, Prophet Muhammad (peace be upon him) turned attention to the threat posed from Khaybar to the north.", "status": "verified" }
+  ],
+  "events": [
+    { "text": "The Muslim army marched to Khaybar and began systematically besieging its fortresses. Several early attempts to capture the main fortresses were unsuccessful.", "status": "verified" },
+    { "text": "Prophet Muhammad (peace be upon him) then said: 'Tomorrow I shall give the banner to a man who loves Allah and His Messenger, and who is loved by Allah and His Messenger.' The next day, he gave the banner to Ali ibn Abi Talib, who led the successful assault on the fortress of Khaybar.", "status": "verified" },
+    { "text": "The remaining fortresses surrendered after the fall of the main fortress. The inhabitants were allowed to remain on the land and continue farming in exchange for a share of the agricultural produce.", "status": "verified" }
+  ],
+  "aftermath": [
+    { "text": "The conquest of Khaybar secured a major source of agricultural wealth for the Muslim community and removed a significant military threat from the north. The arrangement made with the inhabitants established an early model of governance over non-Muslim populations.", "status": "verified" },
+    { "text": "The battle also resulted in the return of Muslim emigrants from Abyssinia, including Ja'far ibn Abi Talib, who arrived in Madinah at this time.", "status": "verified" }
+  ],
+  "lessons": [
+    { "text": "Khaybar demonstrated the growing military capability of the Muslim community and the importance of strategic planning in siege warfare. It also set precedents for Islamic governance and the treatment of populations in lands that came under Muslim control.", "status": "verified" }
+  ],
+  "notableParticipants": [
+    { "companionSlug": "ali-ibn-abi-talib", "companionName": "Ali ibn Abi Talib", "role": "Led the final assault, carried the banner" },
+    { "companionSlug": "abu-bakr-as-siddiq", "companionName": "Abu Bakr As-Siddiq", "role": "Participant" },
+    { "companionSlug": "umar-ibn-al-khattab", "companionName": "Umar ibn Al-Khattab", "role": "Participant" },
+    { "companionSlug": "zubayr-ibn-al-awwam", "companionName": "Al-Zubayr ibn Al-Awwam", "role": "Warrior" }
+  ],
+  "companionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah", "zubayr-ibn-al-awwam", "abdur-rahman-ibn-awf",
+    "saad-ibn-abi-waqqas", "said-ibn-zayd", "abu-ubayda-ibn-al-jarrah"
+  ],
+  "sources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "biography", "verificationStatus": "not-applicable" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "hadith-collection", "verificationStatus": "sahih" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "hadith-collection", "verificationStatus": "sahih" }
+  ],
+  "topics": ["battles"],
+  "metaDescription": "Learn about the Battle of Khaybar (628 CE), the Muslim siege of the fortified oasis north of Madinah where Ali ibn Abi Talib led the decisive assault.",
+  "excerpt": "The Battle of Khaybar (7 AH / 628 CE) was a series of sieges against fortified settlements north of Madinah. Ali ibn Abi Talib led the decisive assault after Prophet Muhammad (peace be upon him) entrusted him with the banner."
+}

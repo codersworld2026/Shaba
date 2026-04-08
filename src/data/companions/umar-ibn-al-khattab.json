@@ -1,0 +1,179 @@
+{
+  "id": "umar-ibn-al-khattab",
+  "slug": "umar-ibn-al-khattab",
+  "nameArabic": "عمر بن الخطاب",
+  "nameEnglish": "Umar ibn Al-Khattab",
+  "fullName": "Umar ibn Al-Khattab ibn Nufayl",
+  "kunyas": ["Abu Hafs"],
+  "nicknames": ["Al-Farooq"],
+  "titles": ["Al-Farooq (The Distinguisher between Truth and Falsehood)", "Amir al-Mu'minin (Commander of the Faithful)"],
+  "isCaliph": true,
+  "caliphOrder": 2,
+  "isAsharaMubasharah": true,
+  "isEarlyConvert": true,
+  "isBadrVeteran": true,
+  "isMuhajir": true,
+  "gender": "male",
+  "topics": ["Second Caliph", "Ashara Mubasharah", "Islamic Expansion", "Administrative Reforms", "Justice"],
+  "birthDate": {
+    "hijri": { "year": null, "description": "Approximately 40 years before Hijrah" },
+    "gregorian": { "year": 584, "description": "Approximately 584 CE in Makkah" }
+  },
+  "deathDate": {
+    "hijri": { "year": 23, "description": "26 Dhul Hijjah 23 AH" },
+    "gregorian": { "year": 644, "description": "3 November 644 CE in Madinah" }
+  },
+  "acceptedIslamDate": {
+    "hijri": { "year": null, "description": "Approximately 6 years before Hijrah (6th year of Prophethood)" },
+    "gregorian": { "year": 616, "description": "Approximately 616 CE" }
+  },
+  "quickFacts": [
+    { "label": "Tribe", "value": "Quraysh (Banu Adi)", "icon": "Users" },
+    { "label": "Birthplace", "value": "Makkah", "icon": "MapPin" },
+    { "label": "Title", "value": "Al-Farooq (The Distinguisher)", "icon": "Star" },
+    { "label": "Caliphate", "value": "2nd Caliph (634-644 CE)", "icon": "Crown" },
+    { "label": "Known For", "value": "Justice and administrative reforms", "icon": "Landmark" },
+    { "label": "Buried", "value": "Al-Masjid an-Nabawi, Madinah", "icon": "Landmark" }
+  ],
+  "patternSeed": 2,
+  "accentColor": "blue",
+  "tabs": {
+    "childhood": {
+      "id": "childhood",
+      "label": "Childhood",
+      "content": [
+        { "text": "Umar ibn Al-Khattab was born in Makkah around 584 CE into the Banu Adi clan of the Quraysh tribe. His father was Al-Khattab ibn Nufayl, a respected figure in his clan.", "status": "verified" },
+        { "text": "He grew up in a relatively modest household compared to some Quraysh families. As a youth, he tended camels for his father and learned reading and writing, a rare skill among the Arabs of that era.", "status": "verified" },
+        { "text": "Umar was known from his youth for his strong physical build, assertive personality, and skill in wrestling and horsemanship. He also developed expertise in genealogy and public speaking.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "beforeIslam": {
+      "id": "beforeIslam",
+      "label": "Before Islam",
+      "content": [
+        { "text": "Before Islam, Umar was a successful merchant who traveled on trade journeys to Syria and other regions. He was respected among the Quraysh for his intelligence, firmness, and diplomatic abilities.", "status": "verified" },
+        { "text": "He served as an ambassador for the Quraysh in pre-Islamic times, representing them in inter-tribal negotiations. Umar was one of the few literate men in Makkah and was knowledgeable about the history and genealogy of the Arab tribes.", "status": "verified" },
+        { "text": "Before his conversion, Umar initially opposed Islam and the early Muslims. His eventual acceptance of Islam marked a turning point for the Muslim community in Makkah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "acceptingIslam": {
+      "id": "acceptingIslam",
+      "label": "Accepting Islam",
+      "content": [
+        { "text": "Umar accepted Islam in approximately the 6th year of Prophethood (around 616 CE). According to well-known accounts, he was moved to convert after hearing verses from Surah Ta-Ha being recited at his sister Fatimah's home.", "status": "verified" },
+        { "text": "His conversion was a significant moment for the early Muslim community. Prophet Muhammad (peace be upon him) had reportedly prayed for the guidance of Umar, and his acceptance strengthened the Muslims greatly.", "status": "verified" },
+        { "text": "After accepting Islam, Umar openly declared his faith to the Quraysh, and the Muslims were able to pray publicly at the Kaaba for the first time. This boldness earned him the title Al-Farooq.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "lifeWithProphet": {
+      "id": "lifeWithProphet",
+      "label": "Life with the Prophet",
+      "content": [
+        { "text": "Umar was one of the closest advisors to Prophet Muhammad (peace be upon him) throughout the Madinan period. On several occasions, Quranic revelations aligned with suggestions Umar had previously made, a phenomenon noted in hadith literature.", "status": "verified" },
+        { "text": "He participated in the Treaty of Hudaybiyyah (6 AH) and initially expressed concern about its terms, though he later acknowledged the wisdom of the Prophet's decision. His daughter Hafsa was married to Prophet Muhammad (peace be upon him).", "status": "verified" },
+        { "text": "Umar migrated openly from Makkah to Madinah, reportedly challenging anyone to stop him. He was a steadfast supporter of the Prophet in all major events of the Madinan period.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "battles": {
+      "id": "battles",
+      "label": "Battles",
+      "content": [
+        { "text": "Umar fought at the Battle of Badr (2 AH) and was among the key fighters in this decisive engagement. He also fought bravely at the Battle of Uhud (3 AH), remaining close to Prophet Muhammad (peace be upon him) when many had dispersed.", "status": "verified" },
+        { "text": "He participated in the Battle of the Trench (Khandaq, 5 AH), the Battle of Khaybar (7 AH), and the conquest of Makkah (8 AH). He was present at virtually every major military campaign during the Prophet's lifetime.", "status": "verified" },
+        { "text": "Umar also participated in the Battle of Hunayn (8 AH) and the Expedition of Tabuk (9 AH), serving as a committed soldier and advisor in the Muslim forces.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "adulthoodLeadership": {
+      "id": "adulthoodLeadership",
+      "label": "Leadership",
+      "content": [
+        { "text": "Umar was appointed as the second Caliph by Abu Bakr's designation before his death in 13 AH (634 CE). He was the first Muslim leader to adopt the title Amir al-Mu'minin (Commander of the Faithful).", "status": "verified" },
+        { "text": "Under his leadership, the Muslim state expanded significantly, encompassing the Levant, Egypt, Persia, and parts of North Africa. He established major administrative systems including the Diwan (state register) and the Islamic calendar based on the Hijrah.", "status": "verified" },
+        { "text": "Umar was renowned for personally inspecting the conditions of his citizens and holding governors to strict standards of accountability. His reign is widely regarded as a golden age of Islamic governance.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "khilafahRole": {
+      "id": "khilafahRole",
+      "label": "Khilafah",
+      "content": [
+        { "text": "Umar served as the second Caliph of Islam from 634 to 644 CE (13-23 AH), a period of approximately ten years. His caliphate witnessed the most rapid expansion of the Muslim state in history.", "status": "verified" },
+        { "text": "He established numerous administrative institutions including the Bayt al-Mal (public treasury), a judicial system with appointed judges, and provincial governance structures. He introduced the Hijri calendar and organized the state into provinces with appointed governors.", "status": "verified" },
+        { "text": "Umar was assassinated by Abu Lu'lu'ah (Firuz) in 644 CE while leading the Fajr prayer in the Prophet's Mosque. Before his death, he appointed a council of six companions (Shura) to choose his successor.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "characterVirtues": {
+      "id": "characterVirtues",
+      "label": "Character & Virtues",
+      "content": [
+        { "text": "Umar was known for his strict sense of justice, holding himself and his officials to the highest standards. He famously said that if a mule stumbled on the banks of the Euphrates, he would feel accountable before Allah.", "status": "verified" },
+        { "text": "Despite ruling a vast empire, Umar lived an austere and simple life. He wore patched clothing, ate simple food, and slept under trees without guards. His humility and self-discipline were legendary among the companions.", "status": "verified" },
+        { "text": "Prophet Muhammad (peace be upon him) said that if there were to be a prophet after him, it would have been Umar. He also stated that the truth flows from Umar's tongue and heart, as recorded in authentic hadith collections.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "nicknamesTitles": {
+      "id": "nicknamesTitles",
+      "label": "Nicknames & Titles",
+      "content": [
+        { "text": "He was called 'Al-Farooq' (The Distinguisher between Truth and Falsehood) because his acceptance of Islam and his bold public declaration of faith marked a clear distinction between the period of hidden worship and open practice for the Muslims.", "status": "verified" },
+        { "text": "Umar was the first to be given the title 'Amir al-Mu'minin' (Commander of the Faithful), which became the standard title for subsequent caliphs. His kunya was Abu Hafs.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "content": [
+        { "text": "Umar's caliphate is considered one of the most transformative periods in Islamic history. His administrative innovations, including the establishment of the Diwan, the Hijri calendar, and the provincial governance system, shaped Islamic civilization for centuries.", "status": "verified" },
+        { "text": "He is widely regarded as one of the greatest leaders in Islamic history, known for his justice, piety, and governance. Non-Muslim historians have also recognized his administrative genius and leadership qualities.", "status": "verified" },
+        { "text": "Umar is buried beside Prophet Muhammad (peace be upon him) and Abu Bakr in the chamber of Aisha in Al-Masjid an-Nabawi in Madinah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "sources": {
+      "id": "sources",
+      "label": "Sources",
+      "content": [
+        { "text": "The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri provides accounts of Umar's conversion, his role in major battles, and his relationship with Prophet Muhammad (peace be upon him).", "status": "verified" },
+        { "text": "Companions of the Prophet by Abdul Wahid Hamid offers biographical narratives of Umar's life, leadership, and enduring contributions to Islamic civilization.", "status": "verified" },
+        { "text": "Sahih al-Bukhari and Sahih Muslim contain extensive authentic hadith narrations about Umar's virtues, his governance, and his status among the companions of Prophet Muhammad (peace be upon him).", "status": "verified" }
+      ],
+      "isEmpty": false
+    }
+  },
+  "battleParticipation": [
+    { "battleSlug": "badr", "battleName": "Battle of Badr", "role": "Prominent fighter" },
+    { "battleSlug": "uhud", "battleName": "Battle of Uhud", "role": "Defender of the Prophet" },
+    { "battleSlug": "khandaq", "battleName": "Battle of the Trench", "role": "Participant in the defense of Madinah" },
+    { "battleSlug": "khaybar", "battleName": "Battle of Khaybar", "role": "Participant" },
+    { "battleSlug": "hunayn", "battleName": "Battle of Hunayn", "role": "Participant" },
+    { "battleSlug": "tabuk", "battleName": "Expedition of Tabuk", "role": "Participant and major donor" }
+  ],
+  "primarySources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "Seerah", "verificationStatus": "verified" },
+    { "title": "Companions of the Prophet", "author": "Abdul Wahid Hamid", "type": "Biography", "verificationStatus": "verified" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "Hadith Collection", "verificationStatus": "verified" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "Hadith Collection", "verificationStatus": "verified" }
+  ],
+  "relatedCompanionSlugs": [
+    "abu-bakr-as-siddiq",
+    "uthman-ibn-affan",
+    "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah",
+    "zubayr-ibn-al-awwam",
+    "abdur-rahman-ibn-awf",
+    "saad-ibn-abi-waqqas",
+    "said-ibn-zayd",
+    "abu-ubayda-ibn-al-jarrah"
+  ],
+  "metaDescription": "Learn about Umar ibn Al-Khattab (Al-Farooq), the second Caliph of Islam known for his justice, administrative reforms, and expansion of the Muslim state.",
+  "excerpt": "Umar ibn Al-Khattab, known as Al-Farooq, was the second Caliph of Islam whose decade-long leadership transformed the Muslim community into a major civilization with enduring administrative institutions.",
+  "sortOrder": 2
+}

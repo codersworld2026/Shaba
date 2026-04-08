@@ -1,0 +1,158 @@
+{
+  "id": "abdur-rahman-ibn-awf",
+  "slug": "abdur-rahman-ibn-awf",
+  "nameArabic": "عبد الرحمن بن عوف",
+  "nameEnglish": "Abdur-Rahman ibn Awf",
+  "fullName": "Abdur-Rahman ibn Awf ibn Abd Awf",
+  "kunyas": ["Abu Muhammad"],
+  "nicknames": [],
+  "titles": ["Master Merchant of Madinah", "One of the Ten Promised Paradise"],
+  "isCaliph": false,
+  "isAsharaMubasharah": true,
+  "isEarlyConvert": true,
+  "isBadrVeteran": true,
+  "isMuhajir": true,
+  "gender": "male",
+  "topics": ["Ashara Mubasharah", "Early Convert", "Badr Veteran", "Generosity", "Scholarship"],
+  "birthDate": {
+    "hijri": { "year": null, "description": "Approximately 10 years after the Year of the Elephant" },
+    "gregorian": { "year": 580, "description": "Approximately 580 CE in Makkah" }
+  },
+  "deathDate": {
+    "hijri": { "year": 32, "description": "32 AH" },
+    "gregorian": { "year": 652, "description": "652 CE in Madinah" }
+  },
+  "acceptedIslamDate": {
+    "hijri": { "year": null, "description": "Among the earliest converts, through Abu Bakr" },
+    "gregorian": { "year": 611, "description": "Approximately 611 CE" }
+  },
+  "quickFacts": [
+    { "label": "Tribe", "value": "Quraysh (Banu Zuhrah)", "icon": "Users" },
+    { "label": "Birthplace", "value": "Makkah", "icon": "MapPin" },
+    { "label": "Known For", "value": "Extraordinary generosity and business acumen", "icon": "Star" },
+    { "label": "Promised Paradise", "value": "One of the Ten (Ashara Mubasharah)", "icon": "Crown" },
+    { "label": "Notable Role", "value": "Led the Shura council to select the third Caliph", "icon": "BookOpen" },
+    { "label": "Buried", "value": "Al-Baqi Cemetery, Madinah", "icon": "Landmark" }
+  ],
+  "patternSeed": 7,
+  "accentColor": "orange",
+  "tabs": {
+    "childhood": {
+      "id": "childhood",
+      "label": "Childhood",
+      "content": [
+        { "text": "Abdur-Rahman ibn Awf was born around 580 CE into the Banu Zuhrah clan of the Quraysh in Makkah. His birth name was Abd Amr, which was later changed to Abdur-Rahman (Servant of the Most Merciful) by Prophet Muhammad (peace be upon him) after he accepted Islam.", "status": "verified" },
+        { "text": "He grew up in a family that was well-connected within the Quraysh and showed an aptitude for trade from an early age.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "beforeIslam": {
+      "id": "beforeIslam",
+      "label": "Before Islam",
+      "content": [
+        { "text": "Before Islam, Abdur-Rahman (then known as Abd Amr) was already a successful merchant known for his honest dealings. He had established a reputation for integrity and sound business judgment.", "status": "verified" },
+        { "text": "He was a close friend of Abu Bakr As-Siddiq before Islam and was known in Makkan society as a man of good character and noble conduct.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "acceptingIslam": {
+      "id": "acceptingIslam",
+      "label": "Accepting Islam",
+      "content": [
+        { "text": "Abdur-Rahman accepted Islam at the invitation of Abu Bakr As-Siddiq and was among the first eight people to embrace the new faith. He accepted Islam before the Muslims began gathering at the house of al-Arqam.", "status": "verified" },
+        { "text": "Prophet Muhammad (peace be upon him) changed his name from Abd Amr to Abdur-Rahman (Servant of the Most Merciful). He faced persecution from the Quraysh and migrated twice — first to Abyssinia and then to Madinah.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "lifeWithProphet": {
+      "id": "lifeWithProphet",
+      "label": "Life with the Prophet",
+      "content": [
+        { "text": "After migrating to Madinah, Prophet Muhammad (peace be upon him) paired Abdur-Rahman with Sa'd ibn al-Rabi al-Ansari in brotherhood. Sa'd offered to share half his wealth and one of his properties, but Abdur-Rahman politely declined, asking only to be directed to the marketplace.", "status": "verified" },
+        { "text": "Starting with nothing in Madinah, Abdur-Rahman rebuilt his fortune through honest trade. Within a short time, he became one of the wealthiest men in Madinah, demonstrating remarkable business acumen and integrity.", "status": "verified" },
+        { "text": "Prophet Muhammad (peace be upon him) once led a prayer behind Abdur-Rahman during the expedition of Tabuk, which was considered a great honor.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "battles": {
+      "id": "battles",
+      "label": "Battles",
+      "content": [
+        { "text": "Abdur-Rahman fought at the Battle of Badr (2 AH), the first major military engagement of the Muslim community. He was among the 313 companions who participated in this pivotal battle.", "status": "verified" },
+        { "text": "He participated in the Battle of Uhud (3 AH), where he sustained multiple wounds. He also took part in the Battle of the Trench (Khandaq) and other major campaigns during the Prophetic era.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "adulthoodLeadership": {
+      "id": "adulthoodLeadership",
+      "label": "Leadership",
+      "content": [
+        { "text": "Abdur-Rahman played a critical role in the selection of the third Caliph. When Umar ibn Al-Khattab was fatally wounded, he appointed a six-member Shura council, and Abdur-Rahman was tasked with leading the consultation process that resulted in the selection of Uthman ibn Affan.", "status": "verified" },
+        { "text": "He was one of the most prolific philanthropists among the companions, regularly donating large portions of his wealth to the Muslim community. He reportedly donated an entire caravan of 700 loaded camels to charity on one occasion.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "khilafahRole": {
+      "id": "khilafahRole",
+      "label": "Khilafah",
+      "content": [],
+      "isEmpty": true
+    },
+    "characterVirtues": {
+      "id": "characterVirtues",
+      "label": "Character & Virtues",
+      "content": [
+        { "text": "Abdur-Rahman was renowned for his generosity. He would donate vast sums from his trading profits. His charitable giving was so extensive that Aisha (may Allah be pleased with her) said the people of Madinah shared in his wealth.", "status": "verified" },
+        { "text": "Despite his immense wealth, he lived simply and was often seen weeping out of consciousness of Allah. He was known for his humility, refusing to let his wealth create any barrier between himself and other Muslims.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "nicknamesTitles": {
+      "id": "nicknamesTitles",
+      "label": "Nicknames & Titles",
+      "content": [
+        { "text": "His name was changed from Abd Amr to Abdur-Rahman (Servant of the Most Merciful) by Prophet Muhammad (peace be upon him) when he accepted Islam. His kunya was Abu Muhammad.", "status": "verified" },
+        { "text": "He was known among the companions for his business success and was sometimes referred to as one of the most generous of the early Muslims due to his extraordinary charitable giving.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "content": [
+        { "text": "Abdur-Rahman ibn Awf is remembered as one of the Ten Companions Promised Paradise. His example demonstrates that wealth and piety can coexist — he was both one of the most successful merchants and one of the most generous donors in early Islamic history.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "sources": {
+      "id": "sources",
+      "label": "Sources",
+      "content": [
+        { "text": "The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri provides accounts of Abdur-Rahman's migration and his role during the Prophetic era.", "status": "verified" },
+        { "text": "Companions of the Prophet by Abdul Wahid Hamid offers biographical details about his life, generosity, and leadership in the Shura council.", "status": "verified" },
+        { "text": "Sahih al-Bukhari and Sahih Muslim contain authentic hadith narrations about his virtues and his being among the Ten Promised Paradise.", "status": "verified" }
+      ],
+      "isEmpty": false
+    }
+  },
+  "battleParticipation": [
+    { "battleSlug": "badr", "battleName": "Battle of Badr", "role": "Warrior" },
+    { "battleSlug": "uhud", "battleName": "Battle of Uhud", "role": "Warrior, sustained wounds" },
+    { "battleSlug": "khandaq", "battleName": "Battle of the Trench", "role": "Defender of Madinah" },
+    { "battleSlug": "khaybar", "battleName": "Battle of Khaybar", "role": "Participant" },
+    { "battleSlug": "tabuk", "battleName": "Expedition of Tabuk", "role": "Significant contributor and participant" }
+  ],
+  "primarySources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "Seerah", "verificationStatus": "verified" },
+    { "title": "Companions of the Prophet", "author": "Abdul Wahid Hamid", "type": "Biography", "verificationStatus": "verified" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "Hadith Collection", "verificationStatus": "verified" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "Hadith Collection", "verificationStatus": "verified" }
+  ],
+  "relatedCompanionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "uthman-ibn-affan", "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah", "zubayr-ibn-al-awwam", "saad-ibn-abi-waqqas", "said-ibn-zayd", "abu-ubayda-ibn-al-jarrah"
+  ],
+  "metaDescription": "Learn about Abdur-Rahman ibn Awf, one of the Ten Promised Paradise, renowned for his extraordinary generosity and business acumen in early Islamic history.",
+  "excerpt": "Abdur-Rahman ibn Awf was one of the earliest converts to Islam and one of the Ten Promised Paradise. Starting with nothing in Madinah, he rebuilt a fortune through honest trade and became one of the greatest philanthropists in Islamic history.",
+  "sortOrder": 7
+}

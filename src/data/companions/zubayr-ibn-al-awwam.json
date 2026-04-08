@@ -1,0 +1,160 @@
+{
+  "id": "zubayr-ibn-al-awwam",
+  "slug": "zubayr-ibn-al-awwam",
+  "nameArabic": "الزبير بن العوام",
+  "nameEnglish": "Al-Zubayr ibn Al-Awwam",
+  "fullName": "Al-Zubayr ibn Al-Awwam ibn Khuwaylid",
+  "kunyas": ["Abu Abdullah"],
+  "nicknames": ["Hawari Rasul Allah"],
+  "titles": ["The Disciple of the Messenger", "Knight of Islam"],
+  "isCaliph": false,
+  "isAsharaMubasharah": true,
+  "isEarlyConvert": true,
+  "isBadrVeteran": true,
+  "isMuhajir": true,
+  "gender": "male",
+  "topics": ["Ashara Mubasharah", "Early Convert", "Badr Veteran", "Military Leader"],
+  "birthDate": {
+    "hijri": { "year": null, "description": "Approximately 28 years before Hijrah" },
+    "gregorian": { "year": 594, "description": "Approximately 594 CE in Makkah" }
+  },
+  "deathDate": {
+    "hijri": { "year": 36, "description": "36 AH" },
+    "gregorian": { "year": 656, "description": "656 CE near Basra" }
+  },
+  "acceptedIslamDate": {
+    "hijri": { "year": null, "description": "Among the earliest converts" },
+    "gregorian": { "year": 611, "description": "Approximately 611 CE, at around the age of sixteen" }
+  },
+  "quickFacts": [
+    { "label": "Tribe", "value": "Quraysh (Banu Asad)", "icon": "Users" },
+    { "label": "Birthplace", "value": "Makkah", "icon": "MapPin" },
+    { "label": "Title", "value": "Disciple of the Messenger", "icon": "Star" },
+    { "label": "Promised Paradise", "value": "One of the Ten (Ashara Mubasharah)", "icon": "Crown" },
+    { "label": "Known For", "value": "First to draw a sword for Islam", "icon": "Sword" },
+    { "label": "Relation", "value": "Nephew of Khadijah and cousin of Prophet Muhammad (peace be upon him)", "icon": "Heart" }
+  ],
+  "patternSeed": 6,
+  "accentColor": "violet",
+  "tabs": {
+    "childhood": {
+      "id": "childhood",
+      "label": "Childhood",
+      "content": [
+        { "text": "Al-Zubayr ibn Al-Awwam was born around 594 CE in Makkah. He was the son of Al-Awwam ibn Khuwaylid, making him the nephew of Khadijah bint Khuwaylid, the wife of Prophet Muhammad (peace be upon him).", "status": "verified" },
+        { "text": "Through his mother Safiyyah bint Abd al-Muttalib, he was also the cousin of Prophet Muhammad (peace be upon him). He grew up in a noble household and was known for his physical strength and courage from a young age.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "beforeIslam": {
+      "id": "beforeIslam",
+      "label": "Before Islam",
+      "content": [
+        { "text": "Before Islam, Al-Zubayr was a young man from one of the noble clans of the Quraysh. His family connections placed him at the intersection of two influential households — the family of Khuwaylid and the family of Abd al-Muttalib.", "status": "verified" },
+        { "text": "He was known for his bravery and physical prowess even before embracing Islam. Despite his youth, he carried himself with dignity and was respected among his peers.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "acceptingIslam": {
+      "id": "acceptingIslam",
+      "label": "Accepting Islam",
+      "content": [
+        { "text": "Al-Zubayr embraced Islam at a young age, reportedly around fifteen or sixteen years old. He was among the earliest converts and the fifth or sixth person to accept Islam.", "status": "verified" },
+        { "text": "After his conversion, his uncle reportedly persecuted him by wrapping him in a mat and exposing him to smoke to force him to renounce Islam. Al-Zubayr refused and remained steadfast in his faith.", "status": "reported" },
+        { "text": "He is credited with being the first person to draw a sword in defense of Islam when he heard a false rumor that Prophet Muhammad (peace be upon him) had been harmed, and rushed out with his sword drawn.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "lifeWithProphet": {
+      "id": "lifeWithProphet",
+      "label": "Life with the Prophet",
+      "content": [
+        { "text": "Al-Zubayr was one of the closest companions of Prophet Muhammad (peace be upon him). The Prophet called him his 'Hawari' (disciple), a title of great honor, comparing him to the disciples of Prophet Isa (Jesus, peace be upon him).", "status": "verified" },
+        { "text": "He participated in both migrations — first to Abyssinia and then to Madinah. He was among the Muhajirun who sacrificed everything for the sake of their faith.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "battles": {
+      "id": "battles",
+      "label": "Battles",
+      "content": [
+        { "text": "Al-Zubayr participated in the Battle of Badr (2 AH), where he fought with distinction. He was among the key warriors who helped secure the Muslim victory in this pivotal battle.", "status": "verified" },
+        { "text": "At the Battle of Uhud (3 AH), he continued to demonstrate his bravery and skill as a fighter. He also participated in the Battle of the Trench (Khandaq), Khaybar, and the conquest of Makkah.", "status": "verified" },
+        { "text": "He took part in numerous military campaigns during the Prophetic era and was known as one of the finest horsemen and swordsmen among the companions.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "adulthoodLeadership": {
+      "id": "adulthoodLeadership",
+      "label": "Leadership",
+      "content": [
+        { "text": "Al-Zubayr was a member of the six-person Shura council appointed by Umar ibn Al-Khattab to choose the next caliph, reflecting his high standing among the companions.", "status": "verified" },
+        { "text": "He was a successful merchant and landowner, and used his wealth generously in the service of Islam. He left behind significant charitable endowments.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "khilafahRole": {
+      "id": "khilafahRole",
+      "label": "Khilafah",
+      "content": [],
+      "isEmpty": true
+    },
+    "characterVirtues": {
+      "id": "characterVirtues",
+      "label": "Character & Virtues",
+      "content": [
+        { "text": "Al-Zubayr was known for his extraordinary courage. Prophet Muhammad (peace be upon him) said: 'Every prophet has a disciple, and my disciple is Al-Zubayr.' This hadith is recorded in Sahih al-Bukhari and Sahih Muslim.", "status": "verified" },
+        { "text": "He was generous with his wealth, spending freely in the cause of Islam. He was also known for his loyalty and devotion to Prophet Muhammad (peace be upon him) throughout his life.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "nicknamesTitles": {
+      "id": "nicknamesTitles",
+      "label": "Nicknames & Titles",
+      "content": [
+        { "text": "He was called 'Hawari Rasul Allah' (The Disciple of the Messenger of Allah) by Prophet Muhammad (peace be upon him) himself, a title of the highest honor comparing him to the apostles of previous prophets.", "status": "verified" },
+        { "text": "He was also known as the 'Knight of Islam' for his prowess in battle. His kunya was Abu Abdullah, named after his son Abdullah ibn Al-Zubayr.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "content": [
+        { "text": "Al-Zubayr is remembered as one of the greatest warriors in early Islamic history and one of the Ten Companions Promised Paradise. His courage, loyalty, and sacrifice remain an inspiration to Muslims.", "status": "verified" },
+        { "text": "His son Abdullah ibn Al-Zubayr later became a notable figure in Islamic history. The family of Al-Zubayr continued to play important roles in the Muslim community for generations.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "sources": {
+      "id": "sources",
+      "label": "Sources",
+      "content": [
+        { "text": "The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri provides accounts of Al-Zubayr's participation in battles and his role during the Prophetic era.", "status": "verified" },
+        { "text": "Companions of the Prophet by Abdul Wahid Hamid offers biographical details about Al-Zubayr's life, his early conversion, and his title as the Disciple of the Messenger.", "status": "verified" },
+        { "text": "Sahih al-Bukhari and Sahih Muslim contain authentic hadith narrations about Al-Zubayr's virtues and his being among the Ten Promised Paradise.", "status": "verified" }
+      ],
+      "isEmpty": false
+    }
+  },
+  "battleParticipation": [
+    { "battleSlug": "badr", "battleName": "Battle of Badr", "role": "Warrior" },
+    { "battleSlug": "uhud", "battleName": "Battle of Uhud", "role": "Warrior" },
+    { "battleSlug": "khandaq", "battleName": "Battle of the Trench", "role": "Defender of Madinah" },
+    { "battleSlug": "khaybar", "battleName": "Battle of Khaybar", "role": "Participant" },
+    { "battleSlug": "hunayn", "battleName": "Battle of Hunayn", "role": "Participant" }
+  ],
+  "primarySources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "Seerah", "verificationStatus": "verified" },
+    { "title": "Companions of the Prophet", "author": "Abdul Wahid Hamid", "type": "Biography", "verificationStatus": "verified" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "Hadith Collection", "verificationStatus": "verified" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "Hadith Collection", "verificationStatus": "verified" }
+  ],
+  "relatedCompanionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "uthman-ibn-affan", "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah", "abdur-rahman-ibn-awf", "saad-ibn-abi-waqqas", "said-ibn-zayd", "abu-ubayda-ibn-al-jarrah"
+  ],
+  "metaDescription": "Learn about Al-Zubayr ibn Al-Awwam, the Disciple of the Messenger and one of the Ten Promised Paradise, known for being the first to draw a sword for Islam.",
+  "excerpt": "Al-Zubayr ibn Al-Awwam was one of the earliest converts to Islam and one of the Ten Companions Promised Paradise. Prophet Muhammad (peace be upon him) honored him with the title 'Hawari' — the Disciple of the Messenger.",
+  "sortOrder": 6
+}

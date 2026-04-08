@@ -1,0 +1,12 @@
+[
+  { "id": "caliphs", "label": "The Four Caliphs", "slug": "caliphs", "description": "The Rightly Guided Caliphs who led the Muslim community after Prophet Muhammad (peace be upon him).", "icon": "Crown", "color": "emerald" },
+  { "id": "ten-promised", "label": "Ten Promised Paradise", "slug": "ten-promised", "description": "The ten companions specifically promised paradise by Prophet Muhammad (peace be upon him).", "icon": "Star", "color": "amber" },
+  { "id": "battles", "label": "Battles & Expeditions", "slug": "battles", "description": "Major military engagements and expeditions of early Islam.", "icon": "Swords", "color": "red" },
+  { "id": "early-converts", "label": "Early Converts", "slug": "early-converts", "description": "The first people to embrace Islam and face persecution for their faith.", "icon": "UserCheck", "color": "blue" },
+  { "id": "migration", "label": "Migration (Hijrah)", "slug": "migration", "description": "The journey from Makkah to Madinah that transformed the Muslim community.", "icon": "Navigation", "color": "teal" },
+  { "id": "bravery", "label": "Bravery & Courage", "slug": "bravery", "description": "Companions renowned for their extraordinary courage in the face of danger.", "icon": "Shield", "color": "orange" },
+  { "id": "generosity", "label": "Generosity", "slug": "generosity", "description": "Companions known for their remarkable charitable giving and sacrifice.", "icon": "Heart", "color": "pink" },
+  { "id": "scholarship", "label": "Scholars & Narrators", "slug": "scholarship", "description": "Companions who preserved and transmitted the knowledge of Islam to future generations.", "icon": "BookOpen", "color": "indigo" },
+  { "id": "justice", "label": "Justice & Leadership", "slug": "justice", "description": "Companions known for their fair governance, wise counsel, and principled leadership.", "icon": "Scale", "color": "violet" },
+  { "id": "women", "label": "Women Companions", "slug": "women", "description": "The remarkable women of early Islam who shaped the community through their faith and contributions.", "icon": "Users", "color": "rose" }
+]

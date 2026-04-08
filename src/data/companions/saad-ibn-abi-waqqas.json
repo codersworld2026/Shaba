@@ -1,0 +1,160 @@
+{
+  "id": "saad-ibn-abi-waqqas",
+  "slug": "saad-ibn-abi-waqqas",
+  "nameArabic": "سعد بن أبي وقاص",
+  "nameEnglish": "Sa'd ibn Abi Waqqas",
+  "fullName": "Sa'd ibn Malik ibn Uhayb ibn Abd Manaf",
+  "kunyas": ["Abu Ishaq"],
+  "nicknames": [],
+  "titles": ["The Lion of Islam", "Commander of Qadisiyyah", "One of the Ten Promised Paradise"],
+  "isCaliph": false,
+  "isAsharaMubasharah": true,
+  "isEarlyConvert": true,
+  "isBadrVeteran": true,
+  "isMuhajir": true,
+  "gender": "male",
+  "topics": ["Ashara Mubasharah", "Early Convert", "Badr Veteran", "Military Leader"],
+  "birthDate": {
+    "hijri": { "year": null, "description": "Approximately 23 years before Hijrah" },
+    "gregorian": { "year": 599, "description": "Approximately 599 CE in Makkah" }
+  },
+  "deathDate": {
+    "hijri": { "year": 55, "description": "55 AH" },
+    "gregorian": { "year": 675, "description": "675 CE in Madinah" }
+  },
+  "acceptedIslamDate": {
+    "hijri": { "year": null, "description": "Among the earliest converts, at the age of seventeen" },
+    "gregorian": { "year": 611, "description": "Approximately 611 CE" }
+  },
+  "quickFacts": [
+    { "label": "Tribe", "value": "Quraysh (Banu Zuhrah)", "icon": "Users" },
+    { "label": "Birthplace", "value": "Makkah", "icon": "MapPin" },
+    { "label": "Known For", "value": "First to shoot an arrow for Islam; Commander at Qadisiyyah", "icon": "Star" },
+    { "label": "Promised Paradise", "value": "One of the Ten (Ashara Mubasharah)", "icon": "Crown" },
+    { "label": "Notable Role", "value": "Governor of Kufa, Military Commander", "icon": "Sword" },
+    { "label": "Buried", "value": "Al-Baqi Cemetery, Madinah", "icon": "Landmark" }
+  ],
+  "patternSeed": 8,
+  "accentColor": "cyan",
+  "tabs": {
+    "childhood": {
+      "id": "childhood",
+      "label": "Childhood",
+      "content": [
+        { "text": "Sa'd ibn Abi Waqqas was born around 599 CE into the Banu Zuhrah clan of the Quraysh in Makkah. He was a maternal uncle of Prophet Muhammad (peace be upon him), as the Prophet's mother Aminah belonged to the same clan.", "status": "verified" },
+        { "text": "He grew up in a respected household and was known for his skill in archery from a young age, a talent that would later serve him well in the defense of Islam.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "beforeIslam": {
+      "id": "beforeIslam",
+      "label": "Before Islam",
+      "content": [
+        { "text": "Before Islam, Sa'd was a young man of the Quraysh known for his skill with the bow and arrow. He was of a quiet and thoughtful disposition.", "status": "verified" },
+        { "text": "His family was well-regarded in Makkan society, and he was among the youth who had close ties to Abu Bakr As-Siddiq and other future early Muslims.", "status": "reported" }
+      ],
+      "isEmpty": false
+    },
+    "acceptingIslam": {
+      "id": "acceptingIslam",
+      "label": "Accepting Islam",
+      "content": [
+        { "text": "Sa'd accepted Islam at the age of seventeen, making him one of the earliest and youngest converts. He was among the first seven people to embrace Islam, according to several historical accounts.", "status": "verified" },
+        { "text": "His mother attempted to pressure him into renouncing Islam by going on a hunger strike, refusing to eat or drink until he left the faith. Sa'd reportedly told her: 'O mother, even if you had a hundred souls and each one departed one after another, I would not give up my faith.' The Quran addressed this incident in Surah Luqman (31:15), advising kindness to parents even when they pressure one to associate partners with Allah.", "status": "verified" },
+        { "text": "Despite his mother's opposition, Sa'd remained steadfast and became one of the most dedicated companions of Prophet Muhammad (peace be upon him).", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "lifeWithProphet": {
+      "id": "lifeWithProphet",
+      "label": "Life with the Prophet",
+      "content": [
+        { "text": "Sa'd was among the first to draw blood and shoot an arrow in the defense of Islam. Prophet Muhammad (peace be upon him) said about him: 'Shoot, Sa'd! May my father and mother be sacrificed for you!' — a phrase the Prophet is not known to have used for anyone else.", "status": "verified" },
+        { "text": "He was one of the companions whose supplications (du'a) were known to be answered. Prophet Muhammad (peace be upon him) specifically prayed for Sa'd's supplications to be accepted.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "battles": {
+      "id": "battles",
+      "label": "Battles",
+      "content": [
+        { "text": "Sa'd fought at the Battle of Badr (2 AH) and was one of the most skilled archers among the Muslim fighters. He also participated in the Battles of Uhud, the Trench, and other major campaigns.", "status": "verified" },
+        { "text": "His most celebrated military achievement was commanding the Muslim forces at the Battle of Qadisiyyah (15 AH / 636 CE) during the caliphate of Umar ibn Al-Khattab. This decisive battle led to the fall of the Sassanid Persian Empire's heartland.", "status": "verified" },
+        { "text": "He also oversaw the founding of the garrison city of Kufa in Iraq, which became a major center of Islamic civilization and learning.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "adulthoodLeadership": {
+      "id": "adulthoodLeadership",
+      "label": "Leadership",
+      "content": [
+        { "text": "Sa'd was appointed Governor of Kufa by Umar ibn Al-Khattab and played a central role in the Muslim administration of Iraq. He was one of the six members of the Shura council appointed by Umar to select his successor.", "status": "verified" },
+        { "text": "He was the last of the Ten Promised Paradise to pass away, dying around 675 CE. He is reported to have deliberately withdrawn from political disputes in his later years.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "khilafahRole": {
+      "id": "khilafahRole",
+      "label": "Khilafah",
+      "content": [],
+      "isEmpty": true
+    },
+    "characterVirtues": {
+      "id": "characterVirtues",
+      "label": "Character & Virtues",
+      "content": [
+        { "text": "Sa'd was known for the acceptance of his supplications (du'a). Prophet Muhammad (peace be upon him) specifically prayed: 'O Allah, answer his supplication when he calls upon You.' The companions were known to seek his prayers.", "status": "verified" },
+        { "text": "He was noted for his bravery, his skill in archery, and his patience during hardship. He remained humble despite his military achievements and political authority.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "nicknamesTitles": {
+      "id": "nicknamesTitles",
+      "label": "Nicknames & Titles",
+      "content": [
+        { "text": "Sa'd was sometimes referred to as the 'Lion of Islam' for his military prowess. His kunya was Abu Ishaq. He is also known as the 'Commander of Qadisiyyah' for leading the Muslim forces to victory in that pivotal battle.", "status": "verified" }
+      ],
+      "isEmpty": false
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "content": [
+        { "text": "Sa'd ibn Abi Waqqas is remembered as one of the greatest military commanders in Islamic history and one of the Ten Promised Paradise. His leadership at Qadisiyyah was a turning point in world history.", "status": "verified" },
+        { "text": "Some historical traditions report that Sa'd ibn Abi Waqqas traveled to China, and a mosque in Guangzhou is attributed to him. This tradition, however, is not universally accepted by historians.", "status": "reported" }
+      ],
+      "isEmpty": false
+    },
+    "sources": {
+      "id": "sources",
+      "label": "Sources",
+      "content": [
+        { "text": "The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri records Sa'd's early conversion and his role in battles during the Prophetic era.", "status": "verified" },
+        { "text": "Companions of the Prophet by Abdul Wahid Hamid offers details about Sa'd's life, military career, and his standing among the companions.", "status": "verified" },
+        { "text": "Sahih al-Bukhari and Sahih Muslim contain authentic narrations about his virtues, especially regarding the acceptance of his supplications.", "status": "verified" }
+      ],
+      "isEmpty": false
+    }
+  },
+  "battleParticipation": [
+    { "battleSlug": "badr", "battleName": "Battle of Badr", "role": "Archer and warrior" },
+    { "battleSlug": "uhud", "battleName": "Battle of Uhud", "role": "Archer" },
+    { "battleSlug": "khandaq", "battleName": "Battle of the Trench", "role": "Defender of Madinah" },
+    { "battleSlug": "khaybar", "battleName": "Battle of Khaybar", "role": "Participant" },
+    { "battleSlug": "hunayn", "battleName": "Battle of Hunayn", "role": "Participant" },
+    { "battleSlug": "tabuk", "battleName": "Expedition of Tabuk", "role": "Participant" }
+  ],
+  "primarySources": [
+    { "title": "The Sealed Nectar (Ar-Raheeq Al-Makhtum)", "author": "Safi-ur-Rahman al-Mubarakpuri", "type": "Seerah", "verificationStatus": "verified" },
+    { "title": "Companions of the Prophet", "author": "Abdul Wahid Hamid", "type": "Biography", "verificationStatus": "verified" },
+    { "title": "Sahih al-Bukhari", "author": "Imam al-Bukhari", "type": "Hadith Collection", "verificationStatus": "verified" },
+    { "title": "Sahih Muslim", "author": "Imam Muslim", "type": "Hadith Collection", "verificationStatus": "verified" }
+  ],
+  "relatedCompanionSlugs": [
+    "abu-bakr-as-siddiq", "umar-ibn-al-khattab", "uthman-ibn-affan", "ali-ibn-abi-talib",
+    "talha-ibn-ubaydullah", "zubayr-ibn-al-awwam", "abdur-rahman-ibn-awf", "said-ibn-zayd", "abu-ubayda-ibn-al-jarrah"
+  ],
+  "metaDescription": "Learn about Sa'd ibn Abi Waqqas, one of the Ten Promised Paradise, the first to shoot an arrow for Islam, and the commander who led the Muslims to victory at Qadisiyyah.",
+  "excerpt": "Sa'd ibn Abi Waqqas was one of the earliest converts to Islam and one of the Ten Promised Paradise. He was the first to shoot an arrow for Islam and later commanded the Muslim forces at the decisive Battle of Qadisiyyah.",
+  "sortOrder": 8
+}
